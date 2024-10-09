@@ -11,8 +11,12 @@
             "id": "1fd3c8ea0f2b3f4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Patrón/Reproducción teórica del patrón.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945
+    "width": 258.5026054382324
   },
   "right": {
     "id": "68428b0eb2b479aa",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Patrón/Reproducción teórica del patrón.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Patrón/Reproducción teórica del patrón.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Patrón/Reproducción teórica del patrón.md"
+              }
             }
           }
         ],
@@ -126,21 +134,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d46e820ab39a8d1e",
+  "active": "1fd3c8ea0f2b3f4c",
   "lastOpenFiles": [
+    "FromZotero/files/802/science-theory-observation.html",
+    "FromZotero/files/618/edit.html",
+    "FromZotero/files/147/Determination-of-Asphaltene-Onset-Pressure-Using.html",
+    "FromZotero/files/176/18757.html",
+    "FromZotero/files/171/petroleo-crudo.html",
+    "FromZotero/files/155/1.html",
+    "FromZotero/files/160/LFT-120018544.html",
+    "FromZotero/files/189/Description.html",
+    "FromZotero/files/146/A-Fast-Measurement-of-Asphaltene-Onset-Pressure.html",
+    "FromZotero/files/188/PICCQA-3.html",
+    "FromZotero/files/315/ac00293a010.html",
+    "Patrón/Ventajas del patrón.md",
+    "Patrón/Materia del patrón.md",
+    "Patrón/Abstracción y Renderización.md",
+    "wimsattFalseModelsMeans1987.md",
+    "friggModelsTheoriesPhilosophical2022.md",
     "2024-10-08.md",
     "Sin título.md",
     "Principio de permanencia.md",
@@ -150,7 +175,6 @@
     "Filosofía de la ciencia y filosofía.md",
     "Topológico y Paramétrico/Ciencia es Dimensión.md",
     "Robustez e incertidumbre en la medición.md",
-    "Patrón/Ventajas del patrón.md",
     "Patrón/El patrón empírico.md",
     "Ciencia y Tecnología/Tecnologización del mundo.md",
     "Termodinámica/Relación entre entropía y trabajo.md",
@@ -163,20 +187,7 @@
     "Termodinámica/Potencial Robustecedor.md",
     "Estructuralismo Anaximándrico/Nomenclatura.md",
     "Patrón/Introducción al patrón.md",
-    "Patrón/Patrón constituido de Patrones.md",
-    "Modelos/Comparación con otros autores.md",
-    "Modelos/Aporte de Roman Frigg.md",
-    "Modelos/Etimología.md",
-    "Modelos/Qué no es modelo.md",
-    "Estructuralismo Anaximándrico",
     "Untitled 1.canvas",
-    "Ciencia y Tecnología",
-    "Pasted image 20240922104452.png",
-    "Topológico y Paramétrico",
-    "Termodinámica",
-    "Patrón",
-    "Cluster",
-    "Modelos",
-    "Crudo"
+    "Pasted image 20240922104452.png"
   ]
 }
