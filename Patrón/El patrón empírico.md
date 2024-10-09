@@ -1,0 +1,5 @@
+#simbólico-empírico
+
+[[Posibles objeciones al patrón]]
+
+El enfoque del modelo científico en términos de su patrón debe incluir necesariamente el reconocimiento de un patrón "homólogo" en el *target* al que el modelo apunta. Que un objeto empírico posee un patrón "robusto" al ser representado por un modelo (y tal vez sólo por esto) necesita de una multiplicidad de aclaraciones, para desarrollar las cuales se reserva buena parte del Cap. 3A. Hay una serie de problemas ontológicos por un lado, y por otro de relación entre la ciencia y la tecnología, que allí serán tratados *in extenso*. Por lo pronto pediré al lector que conceda la posibilidad de un tal "patrón empírico" para poder continuar con la descripción del "patrón simbólico", que es el perteneciente al modelo. No es con todo apresurado aclarar desde ahora que la relación entre los elementos del patrón simbólico y los del patrón empírico no se corresponden 1:1 a la manera de un realismo estructuralista, pero tampoco conviene renunciar a cualquier tipo de conexión u homología.

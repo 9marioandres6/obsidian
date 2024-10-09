@@ -1,0 +1,5 @@
+[[Energía interna, trabajo y entalpía]]
+[[Definición de Entropía]]
+[[Encuadre tecnológico]]
+
+La robustez del resultado es por definición siempre menor que la de los elementos que constituyen el experimento. A medida que se avanza en el trabajo de las múltiples determinaciones, el aumento sucesivo de la robustez del resultado hace que la diferencia entre la solidez del contexto y la robustez del resultado sea cada vez menor. Esto se traduce en una reducción gradual de la entropía. Esto puede traslucirse en una fórmula que indique que el trabajo realizado en cada nueva determinación (que es equivalente a la energía interna del patrón) será proporcional a la variación negativa de entropía, **dU = T dS**, donde **dU** es la variación de la energía interna, que es equivalente al trabajo **W** realizado en el experimento,  **dS** es la variación de la entropía, y **T** es el factor de proporcionalidad, que no es otra cosa que el encuadre tecnológico, puesto que se verifica que si **T** es alto, entonces un trabajo considerable (**dU** alta) redundará en una variación menor en la entropía, y viceversa a la inversa.

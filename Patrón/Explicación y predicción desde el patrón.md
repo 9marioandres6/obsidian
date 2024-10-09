@@ -1,0 +1,7 @@
+#rompecabezas
+#explicación 
+#predicción 
+
+[[Abstracción y Renderización]]
+
+Con este trasfondo, la descripción de la predicción y la explicación científicas de la sección 1A.6 como procesos de coordinación compuesta puede cobrar un nuevo color. En ambos casos hay un contexto sólido en el que se inserta un elemento que en el proceso cobra robustez, cual si se tratara de una pieza faltante de un rompecabezas. La metáfora del rompecabezas es célebre en filosofía de las ciencias, con su exponente más famoso en Thomas Kuhn. Aquí es conveniente advertir sobre su limitación para mostrar una característica que no es menor para el análisis que se está llevando a cabo: que en ningún caso se trata de la coordinación entre elementos que integran un patrón de manera que resta que aparezca un elemento más que lo complete, sino que hay una gradación relativamente continua entre elementos más sólidos y más líquidos, que polarizan por decirlo así para formar un patrón que ni siquiera en los casos más maduros está compuesto sólo por nodos bien determinados a la manera de piezas de rompecabezas. Sin olvidar esta anotación, la metáfora tiene un valor pedagógico para relacionar el contexto en que la hipótesis se inscribe para tomar la forma de una predicción a contrastar, o bien, en el caso de la explicación, si la pieza de interés es inicialmente conocida y el resto del cuadro se arma a su alrededor para dar un sentido general al patrón.

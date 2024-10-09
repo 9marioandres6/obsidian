@@ -1,0 +1,3 @@
+[[Ejemplo de patrón - Ciclo del agua]]
+
+**The San Francisco Bay Model could be considered a similar, just that more complex case, in which its designers have had to detect, or perhaps decide, from the real bay those relevant (unitary) elements to carry out the construction of the model. The risk of all this is, again, that it is not understood because what is being said is too obvious and well known.**

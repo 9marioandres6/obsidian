@@ -1,0 +1,6 @@
+#medición
+#observación
+
+[[Topológico y Paramétrico]]
+
+La distinción entre datos topológicos y paramétricos permite observar algunas posibles imprecisiones, sea en algunas declaraciones o bien en la interpretación que se hace de éstas. Por ejemplo, cuando se dice que “ciencia es medición” [(Dimand, 2019; Cartwright, 1989; Boumans, 2015)](https://www.zotero.org/google-docs/?60RCVg) hay que entender “medición” en el sentido amplio de “observación” (como observa Boumans, op. cit. Cap. 2 nota 3), de manera que comprenda acciones como la especificación de nuevos objetos, incluida su detección. De otra manera se estaría acotando lo científico al ámbito de lo paramétrico, en detrimento de lo topológico. Desde esta perspectiva se podría también decir, tal vez porque el término “observación” sugiere la posibilidad de la “mera observación”, en el sentido de observación no científica, que “ciencia es dimensión”, si se entiende el acto de dimensión como incluyendo tanto la especificación y detección de conceptos u objetos y además la medición de sus propiedades.

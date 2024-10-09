@@ -1,0 +1,8 @@
+#experimento
+#causa-efecto
+
+[[Fórmulas termodinámicas]]
+
+Si el experimento es un elemento central para el análisis de lo científico en términos generales, entonces la relación causa-efecto también debe serlo, ya que está intrínsecamente asociada a él. Un experimento científico se diseña precisamente para identificar, probar y establecer conexiones causales entre variables. Su objetivo medular es manipular una o más variables independientes (las posibles causas) para observar su efecto sobre una o más variables dependientes (los efectos, en este trabajo también identificados como el resultado). Ahora bien, si el resultado del experimento es aquello que se pretende robustecer, y en general los experimentos son diseñados en la medida de lo posible con elementos de la mayor solidez, se sigue que la causa será siempre en el experimento más robusta que el efecto.
+¿Esta característica es exclusiva del experimento? Hay una buena razón, ésta fuera de la lógica del análisis de robustez, para sostener que siempre aquello que identificamos como efecto es menos robusto que su causa. Forma parte de la misma semántica derivada incluso del uso no técnico de estos términos que ante una correlación establecida entre dos factores, llamamos causa a aquél más robusto. Por eso es que directamente es parte de nuestro sentido común reconocer que, a una hora determinada, la altura del mástil es causa de la longitud de la sombra y no a la inversa, por citar un ejemplo clásico. 
+Esta característica de la relación causa-efecto es de suma importancia para el enfoque propuesto en este trabajo y se la llamará entropía. Entropía, en el contexto del análisis de robustez, es la tendencia ineludible a reducir la robustez de la causa al efecto.

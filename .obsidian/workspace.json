@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "81571b94c69f959a",
+    "type": "split",
+    "children": [
+      {
+        "id": "301c098d58ad6120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd3c8ea0f2b3f4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82e47ca61b7e5126",
+    "type": "split",
+    "children": [
+      {
+        "id": "18bede6b18edf52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46e820ab39a8d1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "a443b6779f698e3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tesis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42085097d68ddd75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.51103591918945
+  },
+  "right": {
+    "id": "68428b0eb2b479aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b84a9c2952e39f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182e54373119656b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae01e542bc83664d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9078d17cb791924",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2517d39698e49ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "d46e820ab39a8d1e",
+  "lastOpenFiles": [
+    "2024-10-08.md",
+    "Sin título.md",
+    "Principio de permanencia.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md",
+    "Filosofía de la ciencia y filosofía.md",
+    "Topológico y Paramétrico/Ciencia es Dimensión.md",
+    "Robustez e incertidumbre en la medición.md",
+    "Patrón/Ventajas del patrón.md",
+    "Patrón/El patrón empírico.md",
+    "Ciencia y Tecnología/Tecnologización del mundo.md",
+    "Termodinámica/Relación entre entropía y trabajo.md",
+    "Termodinámica/Trabajo reversible e irreversible.md",
+    "Termodinámica/Energía interna, trabajo y entalpía.md",
+    "Termodinámica/Fórmulas termodinámicas.md",
+    "Termodinámica/Definición de Entropía.md",
+    "Termodinámica/Encuadre tecnológico.md",
+    "Termodinámica/Robustez sistémica.md",
+    "Termodinámica/Potencial Robustecedor.md",
+    "Estructuralismo Anaximándrico/Nomenclatura.md",
+    "Patrón/Introducción al patrón.md",
+    "Patrón/Patrón constituido de Patrones.md",
+    "Modelos/Comparación con otros autores.md",
+    "Modelos/Aporte de Roman Frigg.md",
+    "Modelos/Etimología.md",
+    "Modelos/Qué no es modelo.md",
+    "Estructuralismo Anaximándrico",
+    "Untitled 1.canvas",
+    "Ciencia y Tecnología",
+    "Pasted image 20240922104452.png",
+    "Topológico y Paramétrico",
+    "Termodinámica",
+    "Patrón",
+    "Cluster",
+    "Modelos",
+    "Crudo"
+  ]
+}

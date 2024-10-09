@@ -1,0 +1,3 @@
+[[Desafíos del estructuralismo anaximándrico]]
+
+No hay condiciones de posibilidad detectables para señalar por qué un objeto remite a un segundo objeto más que a cualquier otro. Ocurre por la misma dinámica de relación entre las cosas del mundo que, si cada objeto remite a una multiplicidad de otros, algunos, por sus características (no sólo formales) tienden a remitir a sólo un grupo de otros objetos, y si este grupo es además subsumible bajo una categoría, entonces allí hay referencia. También es no parametrizable sin pérdida de significatividad por qué a algunos objetos de este tipo se les llama representaciones.

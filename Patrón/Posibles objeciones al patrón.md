@@ -1,0 +1,4 @@
+[[Abstracción y Renderización]]
+[[Introducción al patrón]]
+
+Pensar los modelos en términos de sus patrones puede generar algunas objeciones. Por ejemplo, qué relación ontológica hay entre un modelo y su patrón? Si no se admite un salto ontológico cualitativo, ya que el patrón está compuesto por elementos cuya robustez se ha conseguido por múltiple determinación, entonces cómo explicar la invariabilidad del número, que sin duda constituye buena parte de los patrones científicos, y sin embargo no es un elemento que se ha obtenido por múltiple determinación? Esta pregunta es difícil de soslayar, pero incluso cuando se pueda conceder que una cuestión tal, típica de filosofía de las matemáticas, puede dejarse de lado por el momento para poder comprender los modelos científicos en general en términos de su patrón, resta otra pregunta de no menor relevancia. Cómo se relaciona el patrón de un modelo con aquello que el modelo representa, su *target*?
