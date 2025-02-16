@@ -1,1 +1,0 @@
-En el año 2024 Roman Frigg publica el libro Models and Theories, A philosophical Inquiry. Su definición detallada, en términos básicos y completa de los modelos es un buen punto de partida para la posición que este trabajo necesita.

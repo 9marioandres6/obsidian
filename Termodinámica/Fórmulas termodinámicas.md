@@ -1,10 +1,11 @@
-[[Introducción al patrón]]
+#soporte 
+
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaCXAx5icRklfiNmq2VXfDwNhEXuQhnwy7cHF1bpEO6RGZoa-VOOOB0yrX_GKN7HpoK616lwaFfkEQKMECMyr1BrhUglJlABSAMN16KyyIwIuNQoZPEItg8YpkyqE2tRXGLih4m-dOqCMNsBMmonsjtXyA?key=NTIoJemYlTk2D392KRxArw)
 
-dH: incremento en la robustez del patrón
+dH: incremento en la robustez del patrón ([[Introducción al patrón]])
 
-dU: patrón previo al experimento
+dU: robustez del patrón previo al experimento ([[Entropía S]])
 
 P: precisión del resultado
 
@@ -18,7 +19,7 @@ dG: aumento en la robustez del sistema
 
 dH: incremento en la robustez del patrón
 
-T: marco teórico
+T: encuadre teórico
 
 dS: incremento en la liquidez del entorno
 

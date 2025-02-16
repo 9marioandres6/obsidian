@@ -1,0 +1,3 @@
+El "modelo" representa el "target". Los pongo entre comillas porque no se trata de un modelo particular ni de un target particular, sino en términos genéricos.
+Ahora, un modelo científico particular representa una cantidad de targets. Hay una necesidad de reproducción del mundo en la construcción de modelo, que convierte un aspecto del mundo en naturaleza, lo cual puede decir lo mismo que decir: en algo reproducible. 
+Tal vez, porque si un modelo puede "reproducir" su target, la condición es que el target pueda ser reproducido. Entonces, al menos salvando sólo los casos extremos, el target debe poder ser reproducido.

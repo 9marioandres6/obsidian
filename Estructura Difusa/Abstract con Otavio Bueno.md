@@ -1,0 +1,6 @@
+#desarrollo #abstract
+
+[[Lógica Difusa (Fuzzy Logic)]]
+[[Isomorfismo asintótico]]
+
+Este artículo intenta abordar dos asuntos de manera coordinada, uno específico y el otro mucho más general. Por un lado, a la sombra de los trabajos de Otàvio Bueno sobre estructuras parciales, sugiero cómo su propuesta se puede complementar con una visión de entidades parciales, y apelo al lenguaje de la lógica difusa para soportar este razonamiento. Esta apuesta hace imposible soslayar las implicaciones ontológicas en la forma en que entendemos las entidades que conforman el target system de un modelo. En consecuencia, una buena parte del trabajo está dedicada a realizar un recorrido histórico, partiendo de los filósofos “presocráticos”, para derivar en una forma no convencional de comprender “lo empírico”. La aplicación de esta perspectiva a los modelos científicos deriva en lo que llamo Estructuralismo Anaximándrico, mientras que la relación entre el modelo y el target sigue un Iomorfismo Asintótico. Algunas implicancias relevantes de esta propuesta son comentadas al final.

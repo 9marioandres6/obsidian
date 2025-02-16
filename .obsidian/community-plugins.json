@@ -1,5 +1,7 @@
 [
   "obsidian-zotero-desktop-connector",
   "github-sync",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-icon-folder",
+  "obsidian-icons-plugin"
 ]

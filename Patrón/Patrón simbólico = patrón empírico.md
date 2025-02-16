@@ -1,0 +1,6 @@
+[[El patrón empírico]]
+[[Materia del patrón]]
+[[Definición estructural del modelo de péndulo]]
+
+
+Por qué, si los elementos del patrón se identifican o tienden a identificarse asintóticamente, uno de los patrones se señala como simbólico y el otro como empírico? Porque forman parte de elementos que son uno simbólico y el otro empírico. El mango en el martillo ([[Definición de martillo]]) es empírico porque forma parte de un objeto que lo es, mientras que el agarre es simbólico (y simboliza el mango) porque forma parte del modelo de martillo. No olvidar que es sólo el aspecto formal del modelo el que se identifica con el aspecto formal del target: no necesariamente su materialidad, ni su origen, ni su utilidad. Por eso sería ridículo esperar que el agarre en el modelo de martillo sea idéntico en todas sus propiedades al mango de un martillo particular –aunque puede serlo en gran medida en el caso del modelo madre. Pero en su cualidad de "nodo" del patrón "martillo" sí debe ser idéntico al mango empírico en tanto nodo del mismo patrón.

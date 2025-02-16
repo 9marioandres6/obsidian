@@ -1,4 +1,4 @@
-[[Aporte de Roman Frigg]]
+[[Definición de martillo]]
 
 Frigg avanza con un recorte del término para acotar su alcance semántico, excluyendo de su acepción los siguientes usos (p. 3):
 1. Modelo como sinónimo de teoría
@@ -18,4 +18,4 @@ También le sumaría la exclusión de un caso de no poco peso para el uso del t�
 
 9. También, basado en la distinción entre modelos representacionales y modelos lógicos (Frigg 2014, que cita a *  en la p. 69), quedan fuera los lógicos.
 
-* * The term “logical model” is Hesse’s (1967, 354). She refers to what I call representational models as “replicas, scale models, and analogues” (ibid.). As we will see in Part III, being a replica, a scale model or an analogue are different ways of being a representation, and so I prefer the more general term “representational model”. The distinction between logical and representational models is discussed, or at least mentioned, in Achinstein’s (1964, 329), Balzer et al. (1987, 2), Harré’s (2004, 50), Hesse’s (1967, 354), and Thomson-Jones’ (2006). Hodges’ (2018, Sec. 5) offers a historical sketch of how the term acquired this dual meaning.
+* The term “logical model” is Hesse’s (1967, 354). She refers to what I call representational models as “replicas, scale models, and analogues” (ibid.). As we will see in Part III, being a replica, a scale model or an analogue are different ways of being a representation, and so I prefer the more general term “representational model”. The distinction between logical and representational models is discussed, or at least mentioned, in Achinstein’s (1964, 329), Balzer et al. (1987, 2), Harré’s (2004, 50), Hesse’s (1967, 354), and Thomson-Jones’ (2006). Hodges’ (2018, Sec. 5) offers a historical sketch of how the term acquired this dual meaning.

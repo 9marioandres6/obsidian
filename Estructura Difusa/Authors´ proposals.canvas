@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f9d61e1a73a45f06","type":"text","text":"**Contessa**: distinción entre elementos de un modelo y el modelo mismo","x":74,"y":-280,"width":286,"height":100},
+		{"id":"413d597245a93f38","type":"text","text":"**Bueno**: partial relations between elements in the structure","x":-340,"y":-280,"width":306,"height":100},
+		{"id":"dc339e8defbb9868","type":"text","text":"**Partial Structuralism**","x":-120,"y":-100,"width":280,"height":60,"color":"4"},
+		{"id":"53e097894335d806","type":"text","text":"**Chalita**: partial entities. Esto permite mantener la relación especular entre el modelo y el target.","x":-340,"y":80,"width":306,"height":100},
+		{"id":"bcda8e15ee8f66c5","type":"text","text":"**Ducheyne**: relación parcial entre las relaciones del modelo y las del target","x":44,"y":80,"width":316,"height":100},
+		{"id":"507aef1def50867e","type":"text","text":"**Fuzzy structure** (anaximandric structuralism)","x":-347,"y":240,"width":320,"height":91},
+		{"id":"f35d3f12636f0878","type":"text","text":"**Hesse**, M. B. 1967\nMaterial Vs formal.\nFormal = structure\nVer Frigg p293\nFormal analogy is variously paraphrased as an “analogy of structure” (1967, 355, 2000, 299), as being based on “isomorphism” (1967, 355","x":460,"y":-280,"width":260,"height":140}
+	],
+	"edges":[
+		{"id":"05410c89322caa71","fromNode":"413d597245a93f38","fromSide":"bottom","toNode":"dc339e8defbb9868","toSide":"left"},
+		{"id":"b3e1983c1b299d40","fromNode":"f9d61e1a73a45f06","fromSide":"bottom","toNode":"dc339e8defbb9868","toSide":"right"},
+		{"id":"8144eb634e5db2c3","fromNode":"dc339e8defbb9868","fromSide":"bottom","toNode":"bcda8e15ee8f66c5","toSide":"top"},
+		{"id":"3f2dffcffbeba60a","fromNode":"dc339e8defbb9868","fromSide":"bottom","toNode":"53e097894335d806","toSide":"top"},
+		{"id":"b79d7fb4971287fd","fromNode":"53e097894335d806","fromSide":"bottom","toNode":"507aef1def50867e","toSide":"top"}
+	]
+}

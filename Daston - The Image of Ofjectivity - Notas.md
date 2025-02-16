@@ -1,0 +1,7 @@
+"Cada uno de los diversos componentes de la objetividad se opone a una forma distinta de subjetividad; cada uno se define censurando algunos aspectos de lo personal (aunque no todos). La historia de las diversas formas de objetividad podría narrarse como la historia de cómo, por qué y cuándo distintas formas de subjetividad llegaron a considerarse peligrosamente objetivas. 
+
+La objetividad mecánica era indiferente a la subjetividad de, por ejemplo, las idiosincrasias personales; en cambio, combatía la subjetividad del juicio científico y estético, la construcción de sistemas dogmáticos y el antropomorfismo. 
+
+Adoptó un aspecto moral porque se pensaba que estos aspectos de la subjetividad eran susceptibles de ser controlados mediante la autodisciplina; se centró en la imagen científica porque se pensaba que las imágenes eran las menos vulnerables a tales intrusiones subjetivas: amuletos protectores contra la ambigüedad, la mala fe y la construcción de sistemas."
+
+Este párrafo es increíble. Pero hay que ver si estos autores acaban naturalizando esta dicotomía subjetivo-objetivo, o si este texto es justamente para disolverla. En todo caso es interesante mostrar cada vez el camino desde el lenguaje no científico hacia el científico.

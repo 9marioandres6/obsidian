@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1f474a49b8d0408b","type":"text","text":"Unidad","x":-80,"y":-260,"width":200,"height":60},
+		{"id":"f12f46a1db006c80","type":"text","text":"Contradicción","x":-80,"y":-180,"width":200,"height":60},
+		{"id":"c61b597332e152dd","type":"text","text":"Propiedad privada","x":-340,"y":-260,"width":240,"height":60},
+		{"id":"f452d804c0f63340","type":"text","text":"Regalo","x":-340,"y":-180,"width":240,"height":60},
+		{"id":"efc63be47ad0906d","type":"text","text":"Anaximandro","x":140,"y":-340,"width":200,"height":60},
+		{"id":"930bbc1d3f0d84a4","type":"text","text":"Heráclito","x":140,"y":-180,"width":200,"height":60},
+		{"id":"075037f3023af6b8","type":"text","text":"Parménides","x":140,"y":-260,"width":200,"height":60}
+	],
+	"edges":[]
+}

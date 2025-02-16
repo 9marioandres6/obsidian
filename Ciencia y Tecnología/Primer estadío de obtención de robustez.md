@@ -1,0 +1,6 @@
+
+El libro de Levins está escrito en un momento en el que la robustez del sistema a estudiar es prácticamente inexistente.
+
+Las condiciones controladas de un laboratorio consisten en muchos parámetros que trascienden el experimento, como un ambiente libre de polvo, humo, sonido, vibraciones, y la ausencia de factores mecánicos foráneos que intervengan, pero hay parámetros que es relevante controlar en cada experimento individual y éstos están relacionados no tanto al ambiente como al sistema de medición. La elección del sistema de medición requiere que el dato a obtener ya posea algún grado de robustez, que es justamente el que va a prescribir los parámetros que deben ser constantes y cuáles pueden variar. Pero además el sistema de medición es inicialmente una apuesta a que ciertos parámetros puntuales efectivamente inciden en el resultado y otros no lo hacen.
+
+La múltiple determinación de modelos de Levins para la obtención del teorema de robustez es, en el trabajo de campo, el equivalente en términos de obtención de robustez a la coordinación entre instrumentos en un laboratorio.

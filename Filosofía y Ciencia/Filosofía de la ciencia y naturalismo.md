@@ -1,0 +1,3 @@
+[[Filosofía de la ciencia y filosofía]]
+
+Asumir la distinción entre filosofía de las ciencias y filosofía a secas implica necesariamente salirse de una posición naturalista. El naturalismo en su versión básica sostiene que todo lo real es científicamente detectable. Por lo tanto lo que no es ciencia, no es conocimiento. Y en consecuencia, todo lo que cae fuera de la filosofía de la ciencia viene a ser un absurdo, que tradicionalmente se ha denominado metafísica. Este nombre delata hasta qué punto la física matemática rige como modelo de conocimiento para toda ciencia.

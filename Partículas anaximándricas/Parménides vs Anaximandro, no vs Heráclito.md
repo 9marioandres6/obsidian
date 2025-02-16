@@ -1,0 +1,5 @@
+#desarrollo #conclusiones 
+
+La mayor parte de los estudios de los presocráticos, incluidos en general los textos para estudiantes, resaltan el pensamiento de Parménides contraponiéndolo al de Heráclito. Esto parece acertado por cuanto ambos pensadores hicieron de la contradicción el centro de sus argumentos, uno para negarla y el otro para afirmarla, y este eje común permite acercarse a los intereses, estrategias y apuestas de cada uno. Pero así como la concepción corriente del regalo carece de sentido sin una idea previa asociada a la propiedad privada ([[Anaximandro no conoce el regalo.canvas|Anaximandro no conoce el regalo]]), así también la idea de contradicción pierde su sustento semántico sin una concepción previa de objeto unitario. Por eso es más radical la comparación entre Parménides y Anaximandro; para éste no tiene sentido el regalo si no ha llegado a ser definida la propiedad privada, y la contradicción es un sinsentido si no hay alguna cosa cuya definición le permita ser contrapuesta a otra.
+
+[[Ideas para Partículas anaximándricas]]

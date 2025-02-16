@@ -1,0 +1,2 @@
+
+Las ciencias naturales u orgánicas tienen por lo general una desventaja respecto de las ciencias físicas o mecánicas, que es que su trabajo es primordialmente en el campo y no en el laboratorio. Incluso aún luego de conseguido el dato robusto, éste tiene que vérselas en un contexto mucho menos sólido. Por ejemplo el organismo en el que se observa el comportamiento de una célula es menos sólido que el entorno edilicio en el que se observa la performance de un automóvil. Esto está directamente relacionado con la carga tecnológica del entorno (el encuadre tecnológico).
