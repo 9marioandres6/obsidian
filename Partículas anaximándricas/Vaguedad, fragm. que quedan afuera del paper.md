@@ -22,6 +22,3 @@ Hawley, aunque más centrada en cuestiones metafísicas, también reconoce que h
 Parte de la dificultad en aceptar una vaguedad óntica puede residir en que el lenguaje vernáculo, si bien infinitamente expresivo en potencia, no parece sugerir de manera inmediata la vaguedad de los objetos. El nombre propio puede revelarse como "tramposo" en este sentido. Decimos "árbol" sin más, y la cota en la sucesión bien definida de caracteres opera a favor de la concepción de un objeto igualmente definido. Asi es como concebimos el mundo de la manera más inmediata, aunque la posibilidad de la duda siempre es un recurso, pero, aunque también vernáculo, lo cual significa, no mediado por teoría, no deja de ser sin embargo esporádico y en este sentido contrapuesto a la definición espontánea de los objetos al ser nombrados cada vez.
 
   
-
-¿Alguien irá a indagar cuánto mejor reposa la física contemporánea en un mundo anaximándrico que en uno parmenídeo?
-

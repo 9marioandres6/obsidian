@@ -12,6 +12,7 @@
 
 
 * La distinción entre vaguedad lingüística, vaguedad epistémica y vaguedad óntica puede ser tramposa si consiste en divisiones tajantes. Pues la vaguedad óntica presupone tanto la vaguedad lingüística como la epistémica, pues, cómo nombrar o cómo conocer algo que no es en sí determinado? La definición de una cosa es el supuesto tanto para nuestro adecuado conocimiento sobre ella, como para su precisión en términos lingüísticos. No sucede al contrario: la vaguedad lingüística o la epistémica suelen servir de sustento justamente para negar la vaguedad óntica (como lo hace Mattin Eklund, 2008).
+
 La vaguedad epistémica de alguna manera anula explícita o implícitamente la vaguedad ontológica: el interés en afirmar que la vaguedad proviene de nuestro conocimiento del mundo es justamente evitar los problemas de afirmar que las cosas del mundo son vagas. Pero no ocurre lo mismo a la inversa; la vaguedad ontológica no excluye sino que engloba la vaguedad epistémica y la lingüística: al afirmar que la vaguedad está en el mundo, no se está al mismo tiempo negando que esté en nuestro conocimiento de él, o en nuestra forma de nombrarlo. En cambio, lo que se afirma es que el mundo es un constructo derivado de nuestro conocimiento de él y de nuestro lenguaje.
 
 
