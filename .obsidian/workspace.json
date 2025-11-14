@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "adc8e746547c0166",
+  "active": "d46e820ab39a8d1e",
   "lastOpenFiles": [
     "Mari and Giordani.md",
     "Cartwright.md",
