@@ -1,23 +1,25 @@
 
-**Thermodynamic Robustness Analysis**
-1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
-2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
-3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
-4. Synthese (https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgRNxJjtMnJZmqDDVPQMKqSL)
-5. Foundations of Science (...)
+**Thermodynamic Robustness Analysis** (Preparando filminas)
+    1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
+    2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
+    3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
+    4. Synthese (https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgRNxJjtMnJZmqDDVPQMKqSL)
+    5. Foundations of Science (APROBADO!)
 
 
-**Anaximandric Vagueness**
-1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
-2. Apeiron (...)
-3. 
+**Discordance Problem** (Madurar con los cursos sobre medición y luego enviar a autores)
+    1. ...
 
 
-**Naturalism**
-1. ...
+**Anaximandric Vagueness** (Paper enviado a HOPOS)
+    1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
+    2. Apeiron (https://mail.google.com/mail/u/0/#search/apeiron/FMfcgzQbfBnznRfHklvLcwqKQNbScsGZ)
+    3. British Journal for the History of Philosophy (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgJPZnQjmpHqZJctbSfxlBZTp)
+    4. HOPOS (...)
 
 
-**Discordance Problem**
-1.  ...
+**Naturalism** (Esperando publicar Anaximandric Vagueness para empezar a trabajar con esto)
+    1. ...
+
 
 

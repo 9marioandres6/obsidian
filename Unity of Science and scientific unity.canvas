@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"af7b9f098746355d","x":-460,"y":-180,"width":340,"height":80,"type":"text","text":"The process of abstraction starts with the definition of a node."},
+		{"id":"f04bd7bb0a2c8a65","x":-70,"y":-180,"width":340,"height":80,"type":"text","text":"The process of measurement leads to quantify the node"},
+		{"id":"c1a500a83c520657","x":-337,"y":-40,"width":95,"height":50,"type":"text","text":"Unity"},
+		{"id":"d31564b04f559f5f","type":"text","text":"Unit","x":53,"y":-40,"width":95,"height":50},
+		{"id":"079a042179e85241","x":-460,"y":-295,"width":340,"height":50,"type":"text","text":"Hypothesis (discovering context)"},
+		{"id":"928496911a315082","x":-80,"y":-300,"width":360,"height":55,"type":"text","text":"Definition of a measurement unit"},
+		{"id":"25144e2ab5f3c6d8","type":"text","text":"Organic pattern","x":-393,"y":85,"width":208,"height":50},
+		{"id":"f59fe41022ec3294","type":"text","text":"Mechanical pattern","x":-19,"y":85,"width":240,"height":50},
+		{"id":"264e9dfd345a585a","type":"text","text":"Organic sciences","x":-393,"y":200,"width":208,"height":50},
+		{"id":"a3a0c5e21b4acb4d","type":"text","text":"Mechanical sciences","x":-19,"y":200,"width":240,"height":50}
+	],
+	"edges":[
+		{"id":"9debda6daaa4a837","fromNode":"af7b9f098746355d","fromSide":"bottom","toNode":"c1a500a83c520657","toSide":"top"},
+		{"id":"137c2e769622dae6","fromNode":"079a042179e85241","fromSide":"bottom","toNode":"af7b9f098746355d","toSide":"top"},
+		{"id":"bf74dc684b5b783b","fromNode":"928496911a315082","fromSide":"bottom","toNode":"f04bd7bb0a2c8a65","toSide":"top"},
+		{"id":"144721fb6f92f267","fromNode":"f04bd7bb0a2c8a65","fromSide":"bottom","toNode":"d31564b04f559f5f","toSide":"top"},
+		{"id":"3bfd7e583d28fc8b","fromNode":"c1a500a83c520657","fromSide":"bottom","toNode":"25144e2ab5f3c6d8","toSide":"top"},
+		{"id":"8d3d31ae24052fa4","fromNode":"d31564b04f559f5f","fromSide":"left","toNode":"25144e2ab5f3c6d8","toSide":"right","color":"6"},
+		{"id":"d861a8500179f9a7","fromNode":"d31564b04f559f5f","fromSide":"bottom","toNode":"f59fe41022ec3294","toSide":"top"},
+		{"id":"b769a5a933259527","fromNode":"c1a500a83c520657","fromSide":"right","toNode":"f59fe41022ec3294","toSide":"left","color":"6"},
+		{"id":"f2c3c147cc4fdf24","fromNode":"f59fe41022ec3294","fromSide":"bottom","toNode":"a3a0c5e21b4acb4d","toSide":"top"},
+		{"id":"fe4475b27e40016b","fromNode":"25144e2ab5f3c6d8","fromSide":"bottom","toNode":"264e9dfd345a585a","toSide":"top"}
+	]
+}

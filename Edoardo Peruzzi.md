@@ -1,0 +1,3 @@
+I would like to have a clarification of how what you consider to be a discipline affects the Transfer proposal. If we define discipline primarily in historical–institutional terms, then model transfer risks collapsing into a merely sociological narrative, or at least the account with a formal description of the transfer of elements between disciplines becomes deflated. If, on the other hand, we acknowledge that disciplines embody at least some formal differences, then one would expect that an extract of those formal differences be incorporated into the formality of the transfer itself. In short, to the extent that disciplines are understood in formal terms, don’t you think that such formality should be a constitutive part of the formal account of transfer?
+
+
