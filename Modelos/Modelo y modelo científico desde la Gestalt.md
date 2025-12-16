@@ -6,7 +6,7 @@
     
 - Para evitar por ahora el plano epistémico y ontológico de la discusión sobre la existencia de la cosa, apelo como recurso pedagógico provisional al principio gestalt según el cual la existencia de la cosa queda definida por su contexto.
     
-- Si el contexto de la cosa consiste en una cantidad finita y bien delimitada de cosas, la cosa en cuestión se mostrará bien definida. Si, en cambio, el contexto es un continuo aleatorio con sólo algunas cosas parcialmente definidas, en tonces la cosa en cuestión se mostrará igualmente con definición limitada.
+- Si el contexto de la cosa consiste en una cantidad finita y bien delimitada de cosas, la cosa en cuestión se mostrará bien definida. Si, en cambio, el contexto es un continuo aleatorio con sólo algunas cosas parcialmente definidas, entonces la cosa en cuestión se mostrará igualmente con definición limitada.
     
 - Cuando el contexto de la cosa se va “esquilmando” gradualmente, la cosa se va definiendo “en su unidad”. La vaca que estaba comiendo en el campo el martes al mediodía se presenta menos unitaria que “la vaca”, que es así pensada como una figura prácticamente sin fondo.
     

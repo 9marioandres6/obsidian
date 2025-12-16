@@ -1,16 +1,5 @@
-* Leer a Mari
-* Armar los dos abstracts para SURe
-- Enviar mail a Stegenga (enviar otro antes de ir a Singapur)
 
 
-
-Waiting:
-+ Paper submission en HOPOS
-+ Workshop HOPOS in Ohio
-
----
-
-* Leer a Karen Barad
 * Elaborar nueva versión del paper sobre Distinciones Categoriales
     a. Interpretaciones de Ryle, y justificar mi interpretación
     b. Distinción entre representación en términos cognitivos y representación en ciencia

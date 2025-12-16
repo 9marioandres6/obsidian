@@ -1,4 +1,23 @@
 
+Dear Professor Mari,
+
+Thank you for your warm response. The possibility of a formal collaboration can remain open if the conditions arise later. In any case, it is likely that we will meet again soon at upcoming events. In particular, I will try to participate in the event you are organizing in Edinburgh.
+
+Concerning your comment, let me offer a brief clarification. I am aware of the distinction you proposed between symbolic and empirical quantities — in fact, I should say that I shaped my own ideas on measurement largely by studying your work some years ago. What I think I should have clarified in my last email (and I didn't find it clarified in the literature either) is a second distinction that interacts with the former: the one between the structure within the model and its individual elements. I use _systemic_ to refer to the structural level (often described in terms of “patterns” or “networks”), and _parametric_ to refer to the individual elements of that structure (the nodes of the network or, in our case, the quantities). Note that by _structure_ I do not refer to a logical construct, but to a set of empirical elements regarded as epistemically robust  —  and where the mathematical and logical relations would, in any case, serve only as a complement.
+
+In this context, my proposal is to suggest that the straightforward relation “effective quantity <-> intended quantity” may be misleading, since the interaction between the empirical and symbolic planes is primarily systemic. Thinking of a quantity outside its structural context is a common practice when that context is mature and well known, and can therefore remain implicit; but in epistemic terms, such an omission may be a flaw. This may sound trivial in some sense, but it helps resolve certain ambiguities, such as that of the measurand. If the measurand is understood in isolation from its structural context, its meaning becomes obscure; if instead it is understood within that context, its meaning is simply given by it. The distinction also suggests that a model-based account of measurement is subordinated to the general model-based account of science, and that the problem of the relation between effective and intended quantities is a direct branch of the broader problem of representation in science. This does not mean that the problem is no longer pressing in the context of the philosophy of measurement; on the contrary, I believe that a detailed analysis of the measurement scheme can help shed light on the general problem of scientific representation.
+
+---
+
+**Mari´s response:**
+....let me propose a first, preliminary comment to what you have written about the idea that "a measurement result is never directly applied to an empirical quantity, but only through a model that gives meaning to that quantity".
+
+If I understood correctly, I agree, and in fact in some of my publications I used different terms for the quantity with which the measuring instrument empirically interacts ("effective quantity", in the sense of 'quantity that produces an empirical effect') and the quantity to which the measurement result is attributed ("intended quantity", in the sense of 'quantity we intend to measure', i.e., the measurand).
+
+In this context, I guess that better exploring the very concept of 'definition of a measurand' would be an interesting endeavor.
+
+---
+
 **Subject:** Follow-up and possible research connections
 
 Dear Professor Mari,
