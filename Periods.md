@@ -1,7 +1,7 @@
 * **Elaboration period.** Design + Construction.
 	Robustness: coordination.
 
-* **Transition period.** The symbolic and the empirical are split.
+* **Examination period.** The symbolic and the empirical are split.
 	Robustness: replicability (empirical) + concertation (symbolic)
 
 * **Stabilization period.** Sedimentation + Stablishment.
