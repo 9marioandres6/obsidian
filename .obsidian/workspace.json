@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientific models have patterns, not structures.md",
+                "file": "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scientific models have patterns, not structures"
+              "title": "Tres imprecisiones en filosofía de la ciencia"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scientific models have patterns, not structures.md",
+                "file": "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scientific models have patterns, not structures"
+              "title": "Outline of Tres imprecisiones en filosofía de la ciencia"
             }
           }
         ],
@@ -189,9 +189,9 @@
   },
   "active": "c5d804c6ccf25ca7",
   "lastOpenFiles": [
-    "Cartwright.md",
-    "Scientific models have patterns, not structures.md",
     "Modelos/The model from the robust pattern.md",
+    "Modelos/Scientific models have patterns, not structures.md",
+    "Cartwright.md",
     "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "Medición/The problem of the objectivity of the reference.md",
     "Studying Abroad!.md",
