@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periods.md",
+                "file": "Scientific models have patterns, not structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periods"
+              "title": "Scientific models have patterns, not structures"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periods.md",
+                "file": "Scientific models have patterns, not structures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periods"
+              "title": "Outline of Scientific models have patterns, not structures"
             }
           }
         ],
@@ -190,7 +190,7 @@
   "active": "c5d804c6ccf25ca7",
   "lastOpenFiles": [
     "Cartwright.md",
-    "Periods.md",
+    "Scientific models have patterns, not structures.md",
     "Modelos/The model from the robust pattern.md",
     "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "Medición/The problem of the objectivity of the reference.md",
