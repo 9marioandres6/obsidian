@@ -1,10 +1,15 @@
-* **Elaboration period.** Design + Construction.
+1. Models (symbolic) + Target (empirical)
+
+2. Coordination, Replicability, Concertation
+
+3. Maturation process in 3 periods of a structure
+	a) **Elaboration**. Design + Construction.
 	Robustness: coordination.
 
-* **Examination period.** The symbolic and the empirical are split.
-	Robustness: replicability (empirical) + concertation (symbolic)
+	b) **Examination**. Evaluation + 
+	Robustness: replicability (empirical)  + concertation (symbolic)
 
-* **Stabilization period.** Sedimentation + Stablishment.
-	Replicability -> Technology, comerce
+	c) **Stabilization**. Sedimentation + Reliability.
+	Replicability -> Technology
 	Concertation -> Education
 
