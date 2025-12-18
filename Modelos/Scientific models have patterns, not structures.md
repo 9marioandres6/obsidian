@@ -7,7 +7,7 @@
 	**a) Elaboration**. Design + Construction.
 	Robustness: coordination.
 
-	**b) Examination**. Evaluation + ...
+	**b) Examination**. Evaluation + Exposition
 	Robustness: replicability (empirical) + concertation (symbolic)
 
 	**c) Stabilization**. Sedimentation + Reliability.
