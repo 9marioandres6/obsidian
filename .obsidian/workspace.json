@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
+                "file": "Modelos/Definición estructural del modelo de péndulo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tres imprecisiones en filosofía de la ciencia"
+              "title": "Definición estructural del modelo de péndulo"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
+                "file": "Modelos/Definición estructural del modelo de péndulo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tres imprecisiones en filosofía de la ciencia"
+              "title": "Outline of Definición estructural del modelo de péndulo"
             }
           }
         ],
@@ -174,9 +174,9 @@
   },
   "active": "c5d804c6ccf25ca7",
   "lastOpenFiles": [
+    "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "Modelos/The model from the robust pattern.md",
     "Modelos/Scientific models have patterns, not structures.md",
-    "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "Modelos/Datos, modelos y teorías científicos.md",
     "Modelos/Modelo madre.md",
     "Modelos/Definición estructural del modelo de péndulo.md",
