@@ -1,4 +1,13 @@
 
+Three imprecisions about models
+Model as symbolic device; target as empirical phenomenon
+Three maturation periods
+Coordination, Replicability, Concertation
+Two cicles that converge in the scientific experiment
+Scientific progress
+
+
+
 The scientific experiment is the key moment in civilization where the symbolic and the empirical come together to reproduce.
 
 
