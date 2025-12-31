@@ -11,3 +11,5 @@
 
 
 
++ Go deeper into the intersection between stages.
++ "**In scientific practice, it is crucial to distinguish between results—local, context-bound products of specific experimental, observational, or modeling activities—and outcomes, understood as results that are treated as epistemically settled, reliable, and fit for downstream use.**" Not sure that Outcome is the right expression. It will crash with the terminology of philosophy of science... In any case, we can cite Tal and Mari for this distinction.
