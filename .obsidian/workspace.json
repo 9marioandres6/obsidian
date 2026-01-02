@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "088b4db90dd2b031",
+        "id": "a5df8e900b1b2ad6",
         "type": "tabs",
         "children": [
           {
-            "id": "75a287cb9ce89793",
+            "id": "99136112b2f59ba9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ToDo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ToDo"
+              "title": "Outline"
             }
           }
         ],
@@ -172,10 +167,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "75a287cb9ce89793",
+  "active": "99136112b2f59ba9",
   "lastOpenFiles": [
-    "Papers to Journals.md",
     "ToDo.md",
+    "Papers to Journals.md",
     "Modelos/Definición estructural del modelo de péndulo.md",
     "Modelos/Scientific models have patterns, not structures.md",
     "Modelos/The model from the robust pattern.md",
