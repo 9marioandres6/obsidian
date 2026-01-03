@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a5df8e900b1b2ad6",
+        "id": "5fff7d8d305e9633",
         "type": "tabs",
         "children": [
           {
-            "id": "99136112b2f59ba9",
+            "id": "82f9ab8002549c48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daston - The Image of Ofjectivity - Notas"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Daston - The Image of Ofjectivity - Notas"
             }
           }
         ],
@@ -156,6 +161,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -167,8 +174,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "99136112b2f59ba9",
+  "active": "82f9ab8002549c48",
   "lastOpenFiles": [
+    "Naturalism/La naturaleza por contraposición.md",
+    "0_Bin/Termodinámica/Robustez sistémica G.md",
+    "0_Bin/Elena Rocca/2025-08-13 technical note.md",
     "ToDo.md",
     "Papers to Journals.md",
     "Modelos/Definición estructural del modelo de péndulo.md",
@@ -200,9 +210,6 @@
     "Modelos/El target suele ser múltiple.md",
     "Modelos/Definición de martillo.md",
     "Modelos/Referencia y Representación.md",
-    "Modelos/Qué no es modelo.md",
-    "Modelos/Etimología de modelo.md",
-    "Medición/Definitions on Measurement from JCGM.md",
     "0_Bin",
     "Pasted image 20250529003930.png",
     "Contralógica",
