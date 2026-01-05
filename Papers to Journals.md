@@ -30,4 +30,4 @@
 
 **Emergence and Category Distinctions** (por escribir)
 
-**The blind representation, from philosophy to science** (por escribir)
+**The Blind Representation: From Philosophy to Science without gaps** (por escribir)

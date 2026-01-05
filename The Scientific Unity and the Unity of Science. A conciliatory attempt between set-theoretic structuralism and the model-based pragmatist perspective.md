@@ -122,7 +122,7 @@ Finally, it should always be remembered that the unitary system as the pattern a
 
   
 
-## 1.5 Causality, explanation and prediction in terms of unitary elements
+## 1.6 Causality, explanation and prediction in terms of unitary elements
 
   
 
@@ -138,8 +138,6 @@ Finally, it should always be remembered that the unitary system as the pattern a
   
 
 # 2. Ontology and epistemology of the scientific model as a symbolic differentiator of science
-
-  
 
 ## 2.1 Definitions of the scientific model using the four Aristotelian causes
 
@@ -245,9 +243,6 @@ That two models cannot continue each other does not mean that they cannot commun
 Acá puede haber un error de concepto. No es que los modelos sean inconmensurables por sus patrones; al contrario, la intersección en parte de sus patrones es lo que los hace conmensurables justamente. Son los elementos anexos, su materialidad, lo que los distingue e identifica como modelos distintos.
 
 # 3. Ontology and epistemology of the target as an empirical differentiator of science
-
-  
-  
 
 ## 3.1 First approach to the relationship between world and nature from a review of what is understood by nature
 
@@ -395,7 +390,6 @@ To begin to outline an answer, it will be assumed as the work thesis that the ob
 
 ## 4.2 The unitary element recognized as standard unity supports any measurement process
 
-  
 
 According to what the example in the previous subsection shows, it does not seem like much can be gained from the simplicity of reading. This is a certainly controversial operating point in which a number is assigned to the knob displacement. The move from the knob displacement (empirical) to the number (symbolic) seems to be totally unproblematic, at least it is in practice. And will not this simplicity be the relevant and the most important detail to be evaluated? Is not the measuring instrument lead in each case to disarticulate the complexity of the measured object to steal only one aspect of it, a quantity—said in terms that are being used here: a unity? Thus thought, the measuring instrument is a "delator" of unitary elements in the measured object, and it does so by simplifying the empirical perception of this object in stages, until it is reduced to the unity it needs. Once this unity (Q1) is obtained free of all context (this is the condition for specification of a concept as seen in section 1.4), getting the number that represents it seems to be an obvious step. But it only seems so.
 
@@ -411,7 +405,6 @@ The definition of the measurement standard as the universal unitary reference el
 ## 4.3 The standard unity as the key to assess the objectivity of a measurement model
 
   
-
 Hermann von Helmholtz was the first to explicitly outline the attribution problem: “[W]hat is the objective meaning of expressing through denominate numbers the relations of real objects as magnitudes, and under what conditions can we do this?” (1887: 4). In view of what has been said so far, it can be answered that the objective meaning of associating certain empirical quantities with numbers is the equivalence relation between the respective patterns, which is guided by the standard unit and consummated in the act of measurement. Numbers are adequate for expressing a quantity insofar as such quantity can be compared to a standard that gives it a magnitude from its multiple.
 
 The ability to refer everything numerical associated with a magnitude to only one representative element of such magnitude (the standard unit) and that the one-to-one relation in the empirical-symbolic game of such standard unit is sufficient as a guarantee to associate to any other number related to the same magnitude: that is perhaps the point of advantage in terms of conceptual and specification capacity that the numerical sciences have over the non-numeric sciences. But this does not mean that the lack of numbers condemns a science to the lack of objectivity, since objectivity is generally related to the specificity with which the unitary elements of a model are defined, and these elements can reach a sufficient specification without being epistemically associated with numbers, as many examples from the biological sciences demonstrate.
