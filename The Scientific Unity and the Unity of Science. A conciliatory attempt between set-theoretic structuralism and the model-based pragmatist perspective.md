@@ -356,7 +356,7 @@ In summary, the farther away an hypothesis is formulated from the pre-scientific
 
 # 4. Interaction between the scientific model and the measuring instrument in scientific and technological activity
 
-## 4.1 Introduction to the problem of measurement in science through a representative example  
+### 4.1 Introduction to the problem of measurement in science through a representative example  
 
 There does not seem to be much dissent between the different accounts as to what measurement is, generally defined as the process by which a number is attributed to an aspect (sometimes called quantity, sometimes called magnitude) of an object under measurement. The strategy of this section is to try to advance in defining not directly measurement but that technological instrument based on its characteristics by which it is generally said to be a measuring instrument. If this can be achieved, then the definition of measurement as an activity is straightforward: measurement is what the measuring instrument does, or what people do with it. The step from measurement as it will be specified below to the dimension (of non-numerical aspects of objects) could be carried out without major inconveniences.
 
@@ -369,8 +369,6 @@ Everything that is said in this section about the measuring instrument can be ea
 There are two instances in which the empirical and the symbolic communicate, and that is where the attention will be focused to get as close as possible to the phenomenon of representation that will be properly studied in section 6. When the instrument interacts with the object to be measured and displays a data, which is usually numerical, there is an empirical-symbolic movement, after which the raw data thus obtained is processed to be finally attributed to the quantity of the object measured, in a symbolic-empirical movement. The names that are usually used for these movements are respectively reading and outcome. A little example will help clarify the picture so that I can better discuss these points of interest later.
 
 In the use of the thermoelectric effect applied to the measurement of temperature, there is a chain of material devices that make up what can be called the empirical ambit of the measuring system:
-
-  
 
 - Two wires connected at one end in areas with different temperatures and at the other with a coil (solenoid), produce, by thermoelectric effect, a current in the coil.
     
