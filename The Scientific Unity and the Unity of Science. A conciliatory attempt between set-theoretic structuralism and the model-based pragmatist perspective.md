@@ -356,12 +356,7 @@ In summary, the farther away an hypothesis is formulated from the pre-scientific
 
 # 4. Interaction between the scientific model and the measuring instrument in scientific and technological activity
 
-  
-  
-
-## 4.1 Introduction to the problem of measurement in science through a representative example
-
-  
+## 4.1 Introduction to the problem of measurement in science through a representative example  
 
 There does not seem to be much dissent between the different accounts as to what measurement is, generally defined as the process by which a number is attributed to an aspect (sometimes called quantity, sometimes called magnitude) of an object under measurement. The strategy of this section is to try to advance in defining not directly measurement but that technological instrument based on its characteristics by which it is generally said to be a measuring instrument. If this can be achieved, then the definition of measurement as an activity is straightforward: measurement is what the measuring instrument does, or what people do with it. The step from measurement as it will be specified below to the dimension (of non-numerical aspects of objects) could be carried out without major inconveniences.
 
