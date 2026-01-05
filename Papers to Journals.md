@@ -1,5 +1,5 @@
 
-**Thermodynamic Robustness Analysis** (Publicado)
+**Thermodynamic Robustness Analysis** ==(Publicado)==
     1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
     2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
     3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
@@ -7,7 +7,7 @@
     5. Foundations of Science (APROBADO!)
     -  o  -
 
-**Discordance Problem** (Madurar con los cursos sobre medición y luego enviar a autores)
+**Discordance Problem** (revisar sacando las tesis sobre realismo)
     1. ...
 
 **Anaximandric Vagueness** (shut down)
@@ -18,8 +18,12 @@
     Objeciones contundentes. Abandono el proyecto.
     - o -
 
-**Naturalism** (esperando publicar Anaximandric Vagueness para empezar a trabajar con esto)
-    1. ...
+**Naturalism** (revisar en función de alguna tesis)
 
-**Enactment Patterns** (en proceso)
+**Epistemic Iteration and the Construction of Scientific Patterns** (entregado a MCDQ)
 
+**Pattern Enactment and Scientific Representation** (en proceso)
+
+**The Scientific Unity and the Unity of Science**  (en proceso)
+
+**On the Pragmatic Cubism Behind Scientific Realism** (por escribir)
