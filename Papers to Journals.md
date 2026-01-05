@@ -27,3 +27,7 @@
 **The Scientific Unity and the Unity of Science**  (en proceso)
 
 **On the Pragmatic Cubism Behind Scientific Realism** (por escribir)
+
+**Emergence and Category Distinctions** (por escribir)
+
+**The blind representation, from philosophy to science** (por escribir)
