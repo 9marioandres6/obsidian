@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Bin/Robustez/Construcción de la solidez. Origen.md",
+                "file": "Patrón/Materia del patrón.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construcción de la solidez. Origen"
+              "title": "Materia del patrón"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Bin/Robustez/Construcción de la solidez. Origen.md",
+                "file": "Patrón/Materia del patrón.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Construcción de la solidez. Origen"
+              "title": "Outline of Materia del patrón"
             }
           }
         ],
@@ -174,8 +174,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d46e820ab39a8d1e",
+  "active": "46011e818d8a8430",
   "lastOpenFiles": [
+    "Patrón/Ejemplo de patrón - Péndulo.md",
+    "Patrón/Introducción al patrón.md",
+    "0_Bin/Robustez/Construcción de la solidez. Origen.md",
     "0_Bin/Robustez/Primer encuentro ffyh - fcefyn.md",
     "0_Bin/Robustez/Principio de permanencia.md",
     "0_Bin/Robustez/Robustez e incertidumbre en la medición.md",
@@ -204,9 +207,6 @@
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "0_Bin/Termodinámica/Robustez sistémica G.md",
     "0_Bin/Elena Rocca/2025-08-13 technical note.md",
-    "Modelos/Definición estructural del modelo de péndulo.md",
-    "Modelos/Scientific models have patterns, not structures.md",
-    "Modelos/The model from the robust pattern.md",
     "Pasted image 20251107223610.png",
     "Untitled.base",
     "Untitled 1.base",
