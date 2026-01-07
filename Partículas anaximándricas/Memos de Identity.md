@@ -9,7 +9,7 @@ El capítulo sobre la vaguedad en el texto "How Things Persist" de Katherine Haw
 
 Fuentes de la vaguedad: la ignorancia (epistemicismo), la indecisión semántica y la vaguedad ontológica.
 * La indecisión semántica ocurre cuando los términos lingüísticos no tienen valores semánticos únicos o definidos, lo que resulta en indeterminación.
-* La vaguedad ontológica implica que hay aspectos del mundo que son inherentemente indeterminados, independientemente del lenguaje que utilicemos​(Hawley - 2001 - How Thi…)​(Hawley - 2001 - How Thi…).
+* La vaguedad ontológica implica que hay aspectos del mundo que son inherentemente indeterminados, independientemente del lenguaje que utilicemos ​(Hawley - 2001 - How Thi…)​(Hawley - 2001 - How Thi…).
 
 En el texto, Katherine Hawley trata la vaguedad ontológica como una posibilidad real e interesante, pero también polémica. Su análisis destaca varios puntos sobre esta fuente de vaguedad:
 
