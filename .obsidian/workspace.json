@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstracción/Procesos abstractivo y constructivo.md",
+                "file": "Estructura Difusa/Lógica Difusa (Fuzzy Logic).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procesos abstractivo y constructivo"
+              "title": "Lógica Difusa (Fuzzy Logic)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstracción/Procesos abstractivo y constructivo.md",
+                "file": "Estructura Difusa/Lógica Difusa (Fuzzy Logic).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Procesos abstractivo y constructivo"
+              "title": "Outline of Lógica Difusa (Fuzzy Logic)"
             }
           }
         ],
@@ -176,10 +176,16 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
-    "Abstracción/Abstracción y patrón.md",
-    "Abstracción/Comparación con otros autores.md",
+    "Estructura Difusa/Problemas que resuelve la estructura difusa.md",
+    "Estructura Difusa/Isomorfismo asintótico.md",
+    "Estructura Difusa/Funciones y Morfismos.md",
+    "Estructura Difusa/Diferencias con la teoría de conjuntos.md",
+    "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
+    "0_Bin/Abstracción/Procesos abstractivo y constructivo.md",
+    "0_Bin/Abstracción/Abstracción y patrón.md",
+    "0_Bin/Abstracción/Comparación con otros autores.md",
     "PNGs images and Canvas/Abstraction, Idealization, Approximation.md",
-    "Abstracción/Abstracción y Renderización.md",
+    "0_Bin/Abstracción/Abstracción y Renderización.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Naturalism/La naturaleza por contraposición.md",
     "0_Bin/Partículas anaximándricas/Notas sobre Ontic Vagueness.md",
@@ -197,12 +203,6 @@
     "0_Bin/Patrón/El patrón empírico.md",
     "0_Bin/Patrón/Posibles objeciones al patrón.md",
     "0_Bin/Patrón/Otro ejemplo de patrón - Modelo San Francisco.md",
-    "0_Bin/Patrón/Ejemplo de patrón - Ciclo del agua.md",
-    "0_Bin/Patrón/Explicación y predicción desde el patrón.md",
-    "0_Bin/Patrón/Materia del patrón.md",
-    "0_Bin/Patrón/Ejemplo de patrón - Péndulo.md",
-    "0_Bin/Patrón/Introducción al patrón.md",
-    "0_Bin/Robustez/Construcción de la solidez. Origen.md",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
     "PNGs images and Canvas/isomorphism.png",
     "PNGs images and Canvas/Pasted image 20251101093900.png",
