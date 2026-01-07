@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Definición de martillo.md",
+                "file": "Modelos/La perspectiva científica basada en modelos y el instrumento de medición.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición de martillo"
+              "title": "La perspectiva científica basada en modelos y el instrumento de medición"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/Definición de martillo.md",
+                "file": "Modelos/La perspectiva científica basada en modelos y el instrumento de medición.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Definición de martillo"
+              "title": "Outline of La perspectiva científica basada en modelos y el instrumento de medición"
             }
           }
         ],
@@ -176,9 +176,14 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
+    "Modelos/El target suele ser múltiple.md",
+    "Modelos/Modelo madre.md",
+    "Modelos/Definición estructural del modelo de péndulo.md",
+    "Modelos/Definición de martillo.md",
     "Modelos/Referencia y Representación.md",
-    "Modelos/Etimología de modelo.md",
     "Modelos/Qué no es modelo.md",
+    "Modelos/La perspectiva científica basada en modelos y el instrumento de medición.md",
+    "Modelos/Etimología de modelo.md",
     "Medición/The problem of the objectivity of the reference.md",
     "Medición/Definitions on Measurement from JCGM.md",
     "Medición/Tesis sobre una teoría de medición.md",
@@ -197,11 +202,6 @@
     "Ciencia y Tecnología/Primer estadío de obtención de robustez.md",
     "Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md",
     "Ciencia y Tecnología/Tecnologización del mundo.md",
-    "Cluster y ley/Lo que la explicación científica no explica.md",
-    "Cluster y ley/La ley según otros autores.md",
-    "Cluster y ley/Autonomía del cluster.md",
-    "Cluster y ley/Características del Cluster.md",
-    "Cluster y ley/El cluster.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
