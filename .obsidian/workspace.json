@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura Difusa/Lógica Difusa (Fuzzy Logic).md",
+                "file": "Cluster/Autonomía del cluster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lógica Difusa (Fuzzy Logic)"
+              "title": "Autonomía del cluster"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura Difusa/Lógica Difusa (Fuzzy Logic).md",
+                "file": "Cluster/Autonomía del cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lógica Difusa (Fuzzy Logic)"
+              "title": "Outline of Autonomía del cluster"
             }
           }
         ],
@@ -176,10 +176,20 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
-    "Estructura Difusa/Problemas que resuelve la estructura difusa.md",
-    "Estructura Difusa/Isomorfismo asintótico.md",
-    "Estructura Difusa/Funciones y Morfismos.md",
-    "Estructura Difusa/Diferencias con la teoría de conjuntos.md",
+    "Cluster/Características del Cluster.md",
+    "Cluster/El cluster.md",
+    "Cluster/Autonomía del cluster.md",
+    "0_Bin/Estructura Difusa/Contra la mera descripción, a favor de la estructura.md",
+    "0_Bin/Estructura Difusa/Contra la notación lógica, a favor de la estructura.md",
+    "0_Bin/Estructura Difusa/Preguntas programáticas para partículas anaximándricas.md",
+    "0_Bin/Estructura Difusa/Abstract con Otavio Bueno.md",
+    "PNGs images and Canvas/Funciones y Morfismos.md",
+    "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
+    "0_Bin/Estructura Difusa/Nomenclatura.md",
+    "0_Bin/Estructura Difusa/Lógica Difusa (Fuzzy Logic).md",
+    "0_Bin/Estructura Difusa/Problemas que resuelve la estructura difusa.md",
+    "0_Bin/Estructura Difusa/Isomorfismo asintótico.md",
+    "0_Bin/Estructura Difusa/Diferencias con la teoría de conjuntos.md",
     "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
     "0_Bin/Abstracción/Procesos abstractivo y constructivo.md",
     "0_Bin/Abstracción/Abstracción y patrón.md",
@@ -193,16 +203,7 @@
     "0_Bin/Partículas anaximándricas/Vaguedad, fragm. que quedan afuera del paper.md",
     "0_Bin/Partículas anaximándricas/Memos de Identity.md",
     "0_Bin/Partículas anaximándricas/Parménides vs Anaximandro, no vs Heráclito.md",
-    "0_Bin/Partículas anaximándricas/Ideas para Partículas anaximándricas.md",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
-    "0_Bin/Patrón/Materia y forma.md",
-    "0_Bin/Patrón/Patrón simbólico = patrón empírico.md",
-    "0_Bin/Patrón/Patrón constituido de Patrones.md",
-    "Filosofía y Ciencia/Reproducción teórica del patrón.md",
-    "0_Bin/Patrón/Ventajas del patrón.md",
-    "0_Bin/Patrón/El patrón empírico.md",
-    "0_Bin/Patrón/Posibles objeciones al patrón.md",
-    "0_Bin/Patrón/Otro ejemplo de patrón - Modelo San Francisco.md",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
     "PNGs images and Canvas/isomorphism.png",
     "PNGs images and Canvas/Pasted image 20251101093900.png",
@@ -222,7 +223,6 @@
     "Recording 20250224210326.m4a",
     "Recording 20250224210441.m4a",
     "Recording 20250224210314.m4a",
-    "Estructura Difusa/Authors´ proposals.canvas",
     "Abstraction, Idealization, Approximation.canvas",
     "Pasted image 20240922104452.png"
   ]

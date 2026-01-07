@@ -33,11 +33,7 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Estructura Difusa/Contra la mera descripción, a favor de la estructura.md": "📚",
-  "Estructura Difusa/Contra la notación lógica, a favor de la estructura.md": "📚",
   "Filosofía y Ciencia/Realismo científico, intento de intro para Est Anaximándrico.md": "📚",
-  "Estructura Difusa/Preguntas programáticas para partículas anaximándricas.md": "⛔",
-  "Estructura Difusa/Abstract con Otavio Bueno.md": "⛔",
   "Papers to Journals.md": "🔷",
   "Modelos/Modelo científico según las causas aristotélicas.md": "📚",
   "Filosofía y Ciencia/Filosofía de la ciencia y filosofía.md": "📚",
@@ -63,5 +59,9 @@
   "0_Bin/Partículas anaximándricas/Ideas para Partículas anaximándricas.md": "🔷",
   "0_Bin/Partículas anaximándricas/Memos de Identity.md": "📚",
   "0_Bin/Partículas anaximándricas/Notas sobre Ontic Vagueness.md": "📚",
-  "Naturalism/La naturaleza por contraposición.md": "📚"
+  "Naturalism/La naturaleza por contraposición.md": "📚",
+  "0_Bin/Estructura Difusa/Abstract con Otavio Bueno.md": "⛔",
+  "0_Bin/Estructura Difusa/Contra la notación lógica, a favor de la estructura.md": "📚",
+  "0_Bin/Estructura Difusa/Contra la mera descripción, a favor de la estructura.md": "📚",
+  "0_Bin/Estructura Difusa/Preguntas programáticas para partículas anaximándricas.md": "⛔"
 }
