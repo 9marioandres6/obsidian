@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cluster/Autonomía del cluster.md",
+                "file": "Filosofía y Ciencia/History of Philosophy of Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autonomía del cluster"
+              "title": "History of Philosophy of Science"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cluster/Autonomía del cluster.md",
+                "file": "Filosofía y Ciencia/History of Philosophy of Science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Autonomía del cluster"
+              "title": "Outline of History of Philosophy of Science"
             }
           }
         ],
@@ -176,9 +176,19 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
-    "Cluster/Características del Cluster.md",
-    "Cluster/El cluster.md",
-    "Cluster/Autonomía del cluster.md",
+    "Filosofía y Ciencia/Snowflake generation.md",
+    "Filosofía y Ciencia/Why they hate Heidegger.md",
+    "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
+    "Ciencia y Tecnología/Robustez y tecnología.md",
+    "Ciencia y Tecnología/Robustez en ciencias naturales.md",
+    "Ciencia y Tecnología/Primer estadío de obtención de robustez.md",
+    "Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md",
+    "Ciencia y Tecnología/Tecnologización del mundo.md",
+    "Cluster y ley/Lo que la explicación científica no explica.md",
+    "Cluster y ley/La ley según otros autores.md",
+    "Cluster y ley/Autonomía del cluster.md",
+    "Cluster y ley/Características del Cluster.md",
+    "Cluster y ley/El cluster.md",
     "0_Bin/Estructura Difusa/Contra la mera descripción, a favor de la estructura.md",
     "0_Bin/Estructura Difusa/Contra la notación lógica, a favor de la estructura.md",
     "0_Bin/Estructura Difusa/Preguntas programáticas para partículas anaximándricas.md",
@@ -190,19 +200,9 @@
     "0_Bin/Estructura Difusa/Problemas que resuelve la estructura difusa.md",
     "0_Bin/Estructura Difusa/Isomorfismo asintótico.md",
     "0_Bin/Estructura Difusa/Diferencias con la teoría de conjuntos.md",
-    "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
     "0_Bin/Abstracción/Procesos abstractivo y constructivo.md",
     "0_Bin/Abstracción/Abstracción y patrón.md",
     "0_Bin/Abstracción/Comparación con otros autores.md",
-    "PNGs images and Canvas/Abstraction, Idealization, Approximation.md",
-    "0_Bin/Abstracción/Abstracción y Renderización.md",
-    "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
-    "Naturalism/La naturaleza por contraposición.md",
-    "0_Bin/Partículas anaximándricas/Notas sobre Ontic Vagueness.md",
-    "0_Bin/Partículas anaximándricas/What is a property?.md",
-    "0_Bin/Partículas anaximándricas/Vaguedad, fragm. que quedan afuera del paper.md",
-    "0_Bin/Partículas anaximándricas/Memos de Identity.md",
-    "0_Bin/Partículas anaximándricas/Parménides vs Anaximandro, no vs Heráclito.md",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
     "PNGs images and Canvas/isomorphism.png",
