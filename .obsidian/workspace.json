@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Qué no es modelo.md",
+                "file": "Modelos/Definición de martillo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué no es modelo"
+              "title": "Definición de martillo"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/Qué no es modelo.md",
+                "file": "Modelos/Definición de martillo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Qué no es modelo"
+              "title": "Outline of Definición de martillo"
             }
           }
         ],
@@ -176,7 +176,9 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
+    "Modelos/Referencia y Representación.md",
     "Modelos/Etimología de modelo.md",
+    "Modelos/Qué no es modelo.md",
     "Medición/The problem of the objectivity of the reference.md",
     "Medición/Definitions on Measurement from JCGM.md",
     "Medición/Tesis sobre una teoría de medición.md",
@@ -200,8 +202,6 @@
     "Cluster y ley/Autonomía del cluster.md",
     "Cluster y ley/Características del Cluster.md",
     "Cluster y ley/El cluster.md",
-    "0_Bin/Estructura Difusa/Contra la mera descripción, a favor de la estructura.md",
-    "0_Bin/Estructura Difusa/Contra la notación lógica, a favor de la estructura.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
