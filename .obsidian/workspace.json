@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstracción/Abstracción y Renderización.md",
+                "file": "Abstracción/Procesos abstractivo y constructivo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstracción y Renderización"
+              "title": "Procesos abstractivo y constructivo"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstracción/Abstracción y Renderización.md",
+                "file": "Abstracción/Procesos abstractivo y constructivo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abstracción y Renderización"
+              "title": "Outline of Procesos abstractivo y constructivo"
             }
           }
         ],
@@ -176,6 +176,10 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
+    "Abstracción/Abstracción y patrón.md",
+    "Abstracción/Comparación con otros autores.md",
+    "PNGs images and Canvas/Abstraction, Idealization, Approximation.md",
+    "Abstracción/Abstracción y Renderización.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Naturalism/La naturaleza por contraposición.md",
     "0_Bin/Partículas anaximándricas/Notas sobre Ontic Vagueness.md",
@@ -199,10 +203,6 @@
     "0_Bin/Patrón/Ejemplo de patrón - Péndulo.md",
     "0_Bin/Patrón/Introducción al patrón.md",
     "0_Bin/Robustez/Construcción de la solidez. Origen.md",
-    "0_Bin/Robustez/Primer encuentro ffyh - fcefyn.md",
-    "0_Bin/Robustez/Principio de permanencia.md",
-    "0_Bin/Robustez/Robustez e incertidumbre en la medición.md",
-    "0_Bin/Topológico y Paramétrico/Datos topológicos y paramétricos.md",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
     "PNGs images and Canvas/isomorphism.png",
     "PNGs images and Canvas/Pasted image 20251101093900.png",
