@@ -33,13 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Robustez/Primer encuentro ffyh - fcefyn.md": "✅",
   "Estructura Difusa/Contra la mera descripción, a favor de la estructura.md": "📚",
   "Estructura Difusa/Contra la notación lógica, a favor de la estructura.md": "📚",
   "Patrón/Introducción al patrón.md": "⛔",
   "Patrón/Explicación y predicción desde el patrón.md": "📚",
   "Patrón/Reproducción teórica del patrón.md": "📚",
-  "Robustez/Robustez e incertidumbre en la medición.md": "⛔",
   "Partículas anaximándricas/Ideas para Partículas anaximándricas.md": "🔷",
   "Filosofía y Ciencia/Realismo científico, intento de intro para Est Anaximándrico.md": "📚",
   "Estructura Difusa/Preguntas programáticas para partículas anaximándricas.md": "⛔",
@@ -54,12 +52,15 @@
   "Filosofía y Ciencia/Intento de Intro para Est Anaximándrico.md": "📚",
   "Filosofía y Ciencia/Perspectivismo.md": "📚",
   "Partículas anaximándricas/Notas sobre Ontic Vagueness.md": "📚",
-  "Robustez/Principio de permanencia.md": "📚",
   "Partículas anaximándricas/Memos de Identity.md": "📚",
   "0_Bin/Termodinámica": "📚",
   "0_Bin/Termodinámica/Análisis cualitativo de robustez.md": "📚",
   "0_Bin/Termodinámica/Robustez Termodinámica.md": "📚",
   "Tasks.md": "🔷",
   "Modelos/Modelo y modelo científico desde la Gestalt.md": "📚",
-  "Studying Abroad!.md": "🔷"
+  "Studying Abroad!.md": "🔷",
+  "0_Bin/Topológico y Paramétrico/La composición del asfalteno.md": "📚",
+  "0_Bin/Robustez/Primer encuentro ffyh - fcefyn.md": "✅",
+  "0_Bin/Robustez/Principio de permanencia.md": "📚",
+  "0_Bin/Robustez/Robustez e incertidumbre en la medición.md": "⛔"
 }
