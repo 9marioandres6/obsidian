@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partículas anaximándricas/Notas sobre Ontic Vagueness.md",
+                "file": "Abstracción/Abstracción y Renderización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas sobre Ontic Vagueness"
+              "title": "Abstracción y Renderización"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partículas anaximándricas/Notas sobre Ontic Vagueness.md",
+                "file": "Abstracción/Abstracción y Renderización.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notas sobre Ontic Vagueness"
+              "title": "Outline of Abstracción y Renderización"
             }
           }
         ],
@@ -176,12 +176,15 @@
   },
   "active": "46011e818d8a8430",
   "lastOpenFiles": [
-    "Partículas anaximándricas/What is a property?.md",
-    "Partículas anaximándricas/Vaguedad, fragm. que quedan afuera del paper.md",
-    "Partículas anaximándricas/Memos de Identity.md",
-    "Partículas anaximándricas/Parménides vs Anaximandro, no vs Heráclito.md",
-    "Partículas anaximándricas/Ideas para Partículas anaximándricas.md",
-    "Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
+    "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
+    "Naturalism/La naturaleza por contraposición.md",
+    "0_Bin/Partículas anaximándricas/Notas sobre Ontic Vagueness.md",
+    "0_Bin/Partículas anaximándricas/What is a property?.md",
+    "0_Bin/Partículas anaximándricas/Vaguedad, fragm. que quedan afuera del paper.md",
+    "0_Bin/Partículas anaximándricas/Memos de Identity.md",
+    "0_Bin/Partículas anaximándricas/Parménides vs Anaximandro, no vs Heráclito.md",
+    "0_Bin/Partículas anaximándricas/Ideas para Partículas anaximándricas.md",
+    "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "0_Bin/Patrón/Materia y forma.md",
     "0_Bin/Patrón/Patrón simbólico = patrón empírico.md",
     "0_Bin/Patrón/Patrón constituido de Patrones.md",
@@ -200,9 +203,6 @@
     "0_Bin/Robustez/Principio de permanencia.md",
     "0_Bin/Robustez/Robustez e incertidumbre en la medición.md",
     "0_Bin/Topológico y Paramétrico/Datos topológicos y paramétricos.md",
-    "0_Bin/Topológico y Paramétrico/La composición del asfalteno.md",
-    "0_Bin/Topológico y Paramétrico/Topológico y Paramétrico.md",
-    "0_Bin/Topológico y Paramétrico/Ciencia es Dimensión.md",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
     "PNGs images and Canvas/isomorphism.png",
     "PNGs images and Canvas/Pasted image 20251101093900.png",
