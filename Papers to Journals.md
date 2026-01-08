@@ -17,6 +17,8 @@
 
 **On the Pragmatic Cubism Behind Scientific Realism** (por escribir)
 
+**Measurement systems as mediators** (por escribir)
+
 **The Blind Representation: From Philosophy to Science without gaps** (por escribir)
 
 **Anaximandric Vagueness** (shut down)
