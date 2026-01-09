@@ -9,7 +9,7 @@
 
 **Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
 
-**Pattern Enactment and Scientific Representation** (en proceso) 
+**Pattern Enactment and Scientific Representation** (terminado) 
 
 **Discordance Problem** (revisar sacando las tesis sobre realismo)
 
