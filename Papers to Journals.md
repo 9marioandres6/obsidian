@@ -7,9 +7,10 @@
     5. Foundations of Science (APROBADO!)
     -  o  -
 
-**Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
-
 **Pattern Enactment and Scientific Representation** (terminado) 
+	1. Synthese (...)
+
+**Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
 
 **Discordance Problem** (revisar sacando las tesis sobre realismo)
 
