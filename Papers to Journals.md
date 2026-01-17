@@ -10,9 +10,10 @@
 **Pattern Enactment and Scientific Representation** (terminado) 
 	1. Synthese (...)
 
-**Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
-
 **Discordance Problem** (revisar sacando las tesis sobre realismo)
+	1. European Journal of Philosophy of Science (...)
+
+**Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
 
 **Naturalism** (revisar en función de alguna tesis)
 
