@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5ebc3606db6a87ac",
+        "id": "aac9c6f3b6419f28",
         "type": "tabs",
         "children": [
           {
-            "id": "46011e818d8a8430",
+            "id": "40e93e5afd99d995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
+                "file": "Papers to Journals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tres imprecisiones en filosofía de la ciencia"
-            }
-          },
-          {
-            "id": "2c1e7a0faeff0cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciencia y Tecnología/Robustez y tecnología.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robustez y tecnología"
+              "title": "Papers to Journals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciencia y Tecnología/Robustez y tecnología.md",
+                "file": "Papers to Journals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Robustez y tecnología"
+              "title": "Outline of Papers to Journals"
             }
           }
         ],
@@ -189,8 +174,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2c1e7a0faeff0cb7",
+  "active": "40e93e5afd99d995",
   "lastOpenFiles": [
+    "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
+    "Ciencia y Tecnología/Robustez y tecnología.md",
     "Ciencia y Tecnología/Robustez en ciencias naturales.md",
     "Ciencia y Tecnología/Primer estadío de obtención de robustez.md",
     "Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md",
@@ -209,14 +196,12 @@
     "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
     "Modelos/Scientific models have patterns, not structures.md",
     "Modelos/The model from the robust pattern.md",
-    "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "Modelos/Modelo y modelo científico desde la Gestalt.md",
     "Modelos/Modelo científico según las causas aristotélicas.md",
     "Modelos/La perspectiva científica basada en modelos y el instrumento de medición.md",
     "Modelos/El target suele ser múltiple.md",
     "Modelos/Modelo madre.md",
     "Modelos/Definición estructural del modelo de péndulo.md",
-    "Modelos/Definición de martillo.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",

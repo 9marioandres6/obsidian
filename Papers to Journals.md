@@ -7,21 +7,27 @@
     5. Foundations of Science (APROBADO!)
     -  o  -
 
-**Pattern Enactment and Scientific Representation** (terminado) 
+**Pattern Enactment and Scientific Representation** (enviado a Journal) 
 	1. Synthese (...)
 
-**Discordance Problem** (terminado)
+**Discordance Problem** (enviado a Journal)
 	1. European Journal of Philosophy of Science (...)
 
 **Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
 
 **Naturalism** (quieto)
 
-**On the Pragmatic Cubism Behind Scientific Realism** (por escribir)
+**The Scientific Unity and the Unity of Science**  (en proceso)
+
+**On the Pragmatic Cubism Behind Scientific Realism** (escrito, pero no alcanzó a formar un paper)
+
+**Biepistemic Science** (por escribir)
 
 **Measurement systems as mediators** (por escribir)
 
 **The Blind Representation: From Philosophy to Science without gaps** (por escribir)
+
+**Emergence and Category Distinctions** (por escribir)
 
 **Anaximandric Vagueness** (shut down)
     1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
@@ -31,6 +37,4 @@
     Objeciones contundentes. Abandono el proyecto.
     - o -
 
-**The Scientific Unity and the Unity of Science**  (en proceso)
 
-**Emergence and Category Distinctions** (por escribir)
