@@ -15,11 +15,11 @@
 
 **Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
 
-**Naturalism** (quieto)
+**Naturalism** (quieto. Tal vez lo tenga que trabajar con algún prof.)
 
-**The Scientific Unity and the Unity of Science**  (en proceso)
+**The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
-**On the Pragmatic Cubism Behind Scientific Realism** (escrito, pero no alcanzó a formar un paper)
+**On the Pragmatic Cubism Behind Scientific Realism** (en proceso...)
 
 **Biepistemic Science** (por escribir)
 
