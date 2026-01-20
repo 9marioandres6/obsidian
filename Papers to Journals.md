@@ -20,12 +20,12 @@
 **The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
 **On the Pragmatic Cubism Behind Scientific Realism** (en proceso...)
+**The Blind Representation: From Philosophy to Science without gaps** (por escribir)
 
 **Biepistemic Science** (por escribir)
 
 **Measurement systems as mediators** (por escribir)
 
-**The Blind Representation: From Philosophy to Science without gaps** (por escribir)
 
 **Emergence and Category Distinctions** (por escribir)
 
