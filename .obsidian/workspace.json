@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cluster y ley/El cluster.md",
+                "file": "Medición/Tesis sobre una teoría de medición.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El cluster"
+              "title": "Tesis sobre una teoría de medición"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cluster y ley/El cluster.md",
+                "file": "Medición/Tesis sobre una teoría de medición.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of El cluster"
+              "title": "Outline of Tesis sobre una teoría de medición"
             }
           }
         ],
@@ -176,6 +176,11 @@
   },
   "active": "924be86e3579e64d",
   "lastOpenFiles": [
+    "Medición/What is measurement?.md",
+    "Modelos/Scientific models have patterns, not structures.md",
+    "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
+    "Filosofía y Ciencia/Snowflake generation.md",
+    "Cluster y ley/El cluster.md",
     "0_Bin/Ciencia y Tecnología/Robustez y tecnología.md",
     "0_Bin/Ciencia y Tecnología/Robustez en ciencias naturales.md",
     "Filosofía y Ciencia/The revival of the demarcation problem.md",
@@ -187,7 +192,6 @@
     "Fil y Fil de la ciencia.md",
     "Filosofía y Ciencia/Sobre la enseñanza de la ciencia.md",
     "Filosofía y Ciencia/Intento de Intro para Est Anaximándrico.md",
-    "Modelos/Scientific models have patterns, not structures.md",
     "Filosofía y Ciencia/Datos, modelos y teorías científicos.md",
     "Filosofía y Ciencia/Estructuralismo y descriptivismo histórico.md",
     "Tasks.md",
@@ -195,13 +199,9 @@
     "Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
     "Filosofía y Ciencia/Why they hate Heidegger.md",
-    "Filosofía y Ciencia/Snowflake generation.md",
     "Filosofía y Ciencia/Partes no usadas (todavía) del capítulo sobre el target.md",
     "Filosofía y Ciencia/Reproducción teórica del patrón.md",
-    "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
-    "Modelos/The model from the robust pattern.md",
-    "Modelos/Modelo y modelo científico desde la Gestalt.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
