@@ -1,6 +1,6 @@
 [[Tecnologización del mundo]]
 
-Cuando aquello que se quiere observar es demasiado grande o demasiado pequeño para ser modificado, por ejemplo el recorrido de un planeta o la posición de un átomo (o bien su velocidad, pero no ambas), entonces la tecnologización se encuentra en el sistema material del lado del sistema de observación. En los casos de tamaño medio, la robustez está directamente relacionada con la tecnologización tanto del objeto observado como del sistema de observación. En el caso que puede considerarse cercano al límite de la Biología de Poblaciones, para el cual parece en principio más difícil sostener esta premisa, hay que notar que la robustez que hoy se consigue en los resultados tiene que ver con la siguiente batería estratégica (de GPT 4o):
+Cuando aquello que se quiere observar es demasiado grande o demasiado pequeño para ser modificado, por ejemplo el recorrido de un planeta o la posición de un átomo (o bien su velocidad, pero no ambas), entonces la tecnologización se encuentra en el sistema material del lado del sistema de observación. En los casos de tamaño medio, la robustez está directamente relacionada con la tecnologización tanto del objeto observado como del sistema de observación. En el caso que puede considerarse cercano al límite de la Biología de Poblaciones, para el cual parece en principio más difícil sostener esta premisa, hay que notar que la robustez que hoy se consigue en los resultados tiene que ver con la siguiente batería estratégica:
 
 ### 1. **Recolección de datos**
 
