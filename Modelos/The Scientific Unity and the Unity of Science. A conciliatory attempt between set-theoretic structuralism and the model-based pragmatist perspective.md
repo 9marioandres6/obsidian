@@ -15,7 +15,6 @@ This section will focus on the first part of such a challenge. Firstly, an attem
 
 ## 1.2 Delimitation of the scientific from the unitary character of some specific elements in the model
 
-  
 
 In any pictorial representation it can be devised a communication between figure and background, and many times the entire picture takes the name the figure has, as in Leonardo Da Vinci's Last Supper. It also happens in some cases that the name of the painting is given by the context over any figure that can stand out, as in Rafael Sanzio's The School of Athens. In science, what names the model? It stands out, after quickly recalling some examples such as the atomic model, the double helix model of DNA or the Hicks-Hansen model in economy, that the models, at least some of them, seem to be bottomless figures!
 
