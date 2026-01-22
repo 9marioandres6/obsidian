@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🚫",
       "📚",
       "🟦",
       "💥",
-      "✍",
-      "🦋"
+      "✍"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,9 @@
   "Filosofía y Ciencia/Datos, modelos y teorías científicos.md": "📚",
   "Filosofía y Ciencia/The revival of the demarcation problem.md": "⛔",
   "Filosofía y Ciencia/Estructuralismo y descriptivismo histórico.md": "📚",
-  "Ciencia y Tecnología/Tecnologización del mundo.md": "📚"
+  "0_Bin/Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md": "📚",
+  "0_Bin/Ciencia y Tecnología/Tecnologización del mundo.md": "📚",
+  "0_Bin/Ciencia y Tecnología/Robustez en ciencias naturales.md": "🚫",
+  "0_Bin/Ciencia y Tecnología/Robustez y tecnología.md": "🚫",
+  "0_Bin/Ciencia y Tecnología/Primer estadío de obtención de robustez.md": "🚫"
 }
