@@ -21,7 +21,7 @@
 
 **On the Pragmatic Cubism Behind Scientific Realism** (en proceso...)
 
-**Biepistemic Science** (por escribir)
+**Biepistemic Science** (en proceso...)
 
 **Measurement systems as mediators** (por escribir)
 
