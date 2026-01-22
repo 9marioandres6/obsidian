@@ -1,20 +1,6 @@
-
-# 1. First approach to the unitary system by virtue of which a model can be considered scientific
-
-### 1.1 Introduction of the strategy for the essay based on the joint analysis of the scientific model and the measuring instrument
-
-It seems like a simple genuine mention of the facts, but it is a sharp bet in the philosophy of science to begin with the assertion that the representation problem revolves mainly around the connection between the symbolic of a model and the empirical of a target. To the extent that this is granted, whatever the approach to the problem and the way in which it is attacked, a gap between two scopes, representative and represented, is highlighted in any case. Attending to this fact, the question about representation in science remarkably leads to the analysis of measurement, since the measuring instrument is, as it will be argued, the scientific device in which the two mentioned domains are concentrated: it is itself an empirical system that interacts directly with the target, and it is also a symbolic system that allows a reading of the target that is directly aimed at the scientific model for which the measurement is performed.
-
-The measuring instrument, understood from a model-based account (Tal 2012), reveals a problem similar to that of the scientific model: certainly, in its own way, it is also a model as it consists of a symbolic device. Measurement theorists ask about the relationship between the measurement outcome, which is a (symbolic) quantity, and the quantity in the target to which that result is attributed (which is empirical). This problem is an extension of the representation problem in science. The difference between one and the other is what makes the philosopher of science asking about the connection between the model and the target in general, while the measurement theorist asks about the relationship between an element of the model and a corresponding element of the target: the quantity.
-
-The starting point of this study is the result of inverting this map. The reader will be invited to ask about the model as based on an arrangement of specific elements composing it, from where to distinguish it as a scientific model. Then, on the other hand, the problem of the relationship between the symbolic and empirical measured quantity will be searched through the problem of representation in a scientific model, whereby the two problems merge into one, which consists in asking what these "specific elements" are that make a model to be scientific. (But the measuring instrument has already provided us with a clue.)
-
-This section will focus on the first part of such a challenge. Firstly, an attempt will be made to show the unitary system underlining any scientific model (1.2), then the focus will be put on the process of establishing such system based on its motion from non-scientific knowledge (1.3). Next, a discussion is proposed to deepen the understanding of the relationship between the unitary system and the model in general (1.4). Finally, an interpretation of a particular substructure of the model system called cluster is presented and discussed (1.5). This whole discussion will leave the ground leveled to go on to a description of the scientific model according to this unity-based view.
-
-  
+# 1. First approach to the unitary system by virtue of which a model can be considered scientific  
 
 ## 1.2 Delimitation of the scientific from the unitary character of some specific elements in the model
-
 
 In any pictorial representation it can be devised a communication between figure and background, and many times the entire picture takes the name the figure has, as in Leonardo Da Vinci's Last Supper. It also happens in some cases that the name of the painting is given by the context over any figure that can stand out, as in Rafael Sanzio's The School of Athens. In science, what names the model? It stands out, after quickly recalling some examples such as the atomic model, the double helix model of DNA or the Hicks-Hansen model in economy, that the models, at least some of them, seem to be bottomless figures!
 
