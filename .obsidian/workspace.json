@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cc229bd4a271c808",
+        "id": "4f089d6347709930",
         "type": "tabs",
         "children": [
           {
-            "id": "ea85280aa9691261",
+            "id": "7937499458fa776a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medición/The problem of the objectivity of the reference.md",
+                "file": "Papers to Journals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The problem of the objectivity of the reference"
+              "title": "Papers to Journals"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medición/The problem of the objectivity of the reference.md",
+                "file": "Papers to Journals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The problem of the objectivity of the reference"
+              "title": "Outline of Papers to Journals"
             }
           }
         ],
@@ -174,8 +174,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea85280aa9691261",
+  "active": "7937499458fa776a",
   "lastOpenFiles": [
+    "Medición/The problem of the objectivity of the reference.md",
     "Medición/Definitions on Measurement from JCGM.md",
     "Medición/Tesis sobre una teoría de medición.md",
     "Medición/What is measurement?.md",
@@ -201,7 +202,6 @@
     "Filosofía y Ciencia/Intento de Intro para Est Anaximándrico.md",
     "Filosofía y Ciencia/Datos, modelos y teorías científicos.md",
     "Filosofía y Ciencia/Estructuralismo y descriptivismo histórico.md",
-    "Tasks.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
