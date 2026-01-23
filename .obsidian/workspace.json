@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+                "file": "Cluster y ley/Lo que la explicación científica no explica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective"
+              "title": "Lo que la explicación científica no explica"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cluster y ley/Características del Cluster.md",
+                "file": "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Características del Cluster"
+              "title": "The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cluster y ley/Características del Cluster.md",
+                "file": "Cluster y ley/Lo que la explicación científica no explica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Características del Cluster"
+              "title": "Outline of Lo que la explicación científica no explica"
             }
           }
         ],
@@ -189,14 +188,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1c855fea2b6d5628",
+  "active": "924be86e3579e64d",
   "lastOpenFiles": [
-    "Cluster y ley/El cluster.md",
-    "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
-    "Cluster y ley/Lo que la explicación científica no explica.md",
     "Cluster y ley/La ley según otros autores.md",
     "Cluster y ley/Autonomía del cluster.md",
     "Cluster y ley/Características del Cluster.md",
+    "Cluster y ley/El cluster.md",
+    "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+    "Cluster y ley/Lo que la explicación científica no explica.md",
     "Medición/What is measurement?.md",
     "Medición/Tesis sobre una teoría de medición.md",
     "Modelos/Scientific models have patterns, not structures.md",
