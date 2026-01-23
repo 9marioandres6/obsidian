@@ -1,18 +1,3 @@
-# 1. First approach to the unitary system by virtue of which a model can be considered scientific  
-
-## 1.6 Causality, explanation and prediction in terms of unitary elements
-
-- Lo que se ha llamado predicción en ciencia se puede entender en los términos aquí propuestos como un sistema de conceptos que por su misma conformación dan lugar a un concepto que hasta el momento no venía siendo reconocido como tal. La metáfora del rompecabezas es adecuada en este caso, si se piensa en un conjunto de piezas que completan una sección de un gran cuadro tal que dejan un espacio rodeado o circunscrito en el que puede encajar una pieza, en este caso el elemento que se predice.
-    
-- La explicación funciona como una dinámica inversa, pero con similar estructura: hay inicialmente una pieza que se quiere explicar, y las demás piezas conocidas se posan a su alrededor para darle sentido.
-    
-- La causalidad es en ambos casos la relación entre la pieza en cuestión y las que la rodean… más un detalle. Se suele situar del lado de las causas aquellas piezas que gozan de mayor generalidad nómica, y del lado del efecto las que gozan de menor generalidad nómica. Así, entre dos piezas aledañas, la más general será la causa de la más particular. Por eso se dice que la posición del sol junto con la altura del mástil son la causa del tamaño de la sombra, y no suele ser bien visto afirmar que la sombra es causa de alguno de ellos. También hay que tener en cuenta que no necesariamente dos piezas que se encuentran cercanas en un contexto deben ser relacionadas a la manera de causa/efecto. En el ejemplo, no hay tal relación entre la altura del mástil y el sol, que cada uno por su parte puede ser explicado en su contexto particular, con sus piezas aledañas según el caso. Se puede caer en esta clase de confusiones (menos propias de la práctica científica que de la especulaicón filosófica) si se intenta asumir estos términos como unitarios en el sentido de científicos, cuando no lo son. Pues no hay experimentos que anclen cieníficamente causas, ni explicaciones, ni predicciones.
-    
-- [esto no iría] Hay que tener en cuenta el corte temporal que ocurre en ambos casos: siempre hay un tiempo inicial, en el que quedan establecidas las condiciones iniciales o antecedentes, y un tiempo final, en el que queda establecido el resultado, la observación. Tal vez no hay otra alternativa que considerar siempre dos tiempos, inicial y final, y entonces la definición de causa se simplifica considerablemente: si un sistema en t1 siempre deriva en un resultado en t2, entonces el sistema es causa del resultado. Y causa no es entonces más que eso.
-    
-
-  
-
 # 2. Ontology and epistemology of the scientific model as a symbolic differentiator of science
 
 ## 2.1 Definitions of the scientific model using the four Aristotelian causes
@@ -25,13 +10,9 @@ For the former, a strategy will be used to define what a scientific model is by 
 
 In all cases a scientific model is made from the need to understand nature conceptually and objectively, and to intervene on it. The scientist is the "agent" who has been trained for this task of understanding nature and, said roughly and in a very simplified way, the engineer has been trained to intervene on it from this understanding. Both scientists and engineers in their formation access the set of successive patterns and at the juncture they act to spirally generate new structures, complementing or revising the previous ones. This leads to the first definition:
 
-  
-
 Definition of the scientific model from its efficient cause: a scientific model is a device carried on by scientist and engineers in the attempt to understand and/or intervene in nature in terms of its pattern.
 
-  
-
-As there are multiple reasons that lead scientists to create models, there will consequently be a multiplicity of designs that give rise to “a proliferation of model types recognized in the philosophical literature. Probing models, phenomenological models, computational models, developmental models, explanatory models, impoverished models, testing models, idealized models, theoretical models, scale models, heuristic models, caricature models, exploratory models, didactic models, fantasy models, minimal models, toy models, imaginary models, mathematical models, mechanistic models, substitute models, iconic models, formal models, analogue models, and instrumental models are but some of the notions that are used to categorize models”. All these kinds are considered to share the aim of the "unitary understanding" of nature through a unitary symbolic system that is homologous to the empirical one in the garget, as introduced in the previous section, which leads to the second definition:
+As there are multiple reasons that lead scientists to create models, there will consequently be a multiplicity of designs that give rise to “a proliferation of model types recognized in the philosophical literature. Probing models, phenomenological models, computational models, developmental models, explanatory models, impoverished models, testing models, idealized models, theoretical models, scale models, heuristic models, caricature models, exploratory models, didactic models, fantasy models, minimal models, toy models, imaginary models, mathematical models, mechanistic models, substitute models, iconic models, formal models, analogue models, and instrumental models are but some of the notions that are used to categorize models”. All these kinds are considered to share the aim of the "unitary understanding" of nature through a unitary symbolic system that is homologous to the empirical one in the target, as introduced in the previous section, which leads to the second definition:
 
   
 
