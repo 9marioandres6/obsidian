@@ -35,4 +35,3 @@
 
 **Emergence and Category Distinctions** (por escribir)
 
-**The Blind Representation** (por escribir)
