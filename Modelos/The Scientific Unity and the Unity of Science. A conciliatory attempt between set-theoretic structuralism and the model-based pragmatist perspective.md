@@ -99,6 +99,7 @@ That two models cannot continue each other does not mean that they cannot commun
 
 Acá puede haber un error de concepto. No es que los modelos sean inconmensurables por sus patrones; al contrario, la intersección en parte de sus patrones es lo que los hace conmensurables justamente. Son los elementos anexos, su materialidad, lo que los distingue e identifica como modelos distintos.
 
+
 # 3. Ontology and epistemology of the target as an empirical differentiator of science
 
 ## 3.1 First approach to the relationship between world and nature from a review of what is understood by nature
@@ -185,6 +186,8 @@ This centripetal force that a model must own in order to be successful can also 
 In summary, the farther away an hypothesis is formulated from the pre-scientific world the more difficult it will be for it to come to transcend. However, to the extent that it actually transcends, the greater distance this model is conceived from the world previous to it, the higher the brilliance will be attached to it once the community declares it confirmed by experimental evidence. For this it is not possible to elicit a rule that is valid for all cases, since of all the unitary elements that the model presents as innovators (there can be conceded to always be a good part of other ones yet known before the proposal) usually only the confirmation of a few unitary elements is enough for the model to be considered acceptable, generally the most falsifiable ones. For the confirmation of the remaining ones until the model is free of mysteries science of course continues his normal work, already with the model consecrated, that is, among other things, conceded to the engineers.
 
   
+
+
 
 # 4. Interaction between the scientific model and the measuring instrument in scientific and technological activity
 

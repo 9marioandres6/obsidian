@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+                "file": "Medición/The problem of the objectivity of the reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective"
+              "title": "The problem of the objectivity of the reference"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+                "file": "Medición/The problem of the objectivity of the reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective"
+              "title": "Outline of The problem of the objectivity of the reference"
             }
           }
         ],
@@ -176,14 +176,15 @@
   },
   "active": "ea85280aa9691261",
   "lastOpenFiles": [
+    "Medición/Definitions on Measurement from JCGM.md",
+    "Medición/Tesis sobre una teoría de medición.md",
+    "Medición/What is measurement?.md",
+    "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
     "0_Bin/Cluster y ley/Lo que la explicación científica no explica.md",
     "0_Bin/Cluster y ley/La ley según otros autores.md",
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
     "0_Bin/Cluster y ley/Características del Cluster.md",
     "0_Bin/Cluster y ley/El cluster.md",
-    "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
-    "Medición/What is measurement?.md",
-    "Medición/Tesis sobre una teoría de medición.md",
     "Modelos/Scientific models have patterns, not structures.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Filosofía y Ciencia/Snowflake generation.md",
@@ -201,7 +202,6 @@
     "Filosofía y Ciencia/Datos, modelos y teorías científicos.md",
     "Filosofía y Ciencia/Estructuralismo y descriptivismo histórico.md",
     "Tasks.md",
-    "Emergence and category distinctions.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",

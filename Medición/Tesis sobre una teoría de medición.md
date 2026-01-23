@@ -66,7 +66,7 @@
 
 
 
-De Luca Mariv (los links están rotos, pero tienen info)
+De Luca Mari (los links están rotos, pero tienen info)
 
 1996)
 
