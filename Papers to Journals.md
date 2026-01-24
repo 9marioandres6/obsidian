@@ -27,7 +27,7 @@
 
 **The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
-**The Pragmatic Cubist Strategies Behind Scientific Realism** (en proceso...)
+**The Pragmatic Cubist Strategies Behind Scientific Realism** ==(entregado a Pio)==
 
 **Biepistemic Science** (en proceso...)
 
