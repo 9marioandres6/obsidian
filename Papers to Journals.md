@@ -23,13 +23,13 @@
 
 **Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
 
-**Naturalism** (quieto. Tal vez lo tenga que trabajar con algún prof.)
+**Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
 
 **The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
 **The Pragmatic Cubist Strategies Behind Scientific Realism** ==(entregado a Pio)==
 
-**Biepistemic Science** (en proceso...)
+**Biepistemic Science** (terminada la primera versión, y en reposo por ahora)
 
 **Measurement systems as mediators** (por escribir)
 
