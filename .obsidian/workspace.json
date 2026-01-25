@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "0_Bin/Emergence and category distinctions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to Journals"
+              "title": "Emergence and category distinctions"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "0_Bin/Emergence and category distinctions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Papers to Journals"
+              "title": "Outline of Emergence and category distinctions"
             }
           }
         ],
@@ -174,8 +174,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7937499458fa776a",
+  "active": "d46e820ab39a8d1e",
   "lastOpenFiles": [
+    "Papers to Journals.md",
     "Medición/The problem of the objectivity of the reference.md",
     "Medición/Definitions on Measurement from JCGM.md",
     "Medición/Tesis sobre una teoría de medición.md",
@@ -195,7 +196,6 @@
     "0_Bin/Ciencia y Tecnología/Primer estadío de obtención de robustez.md",
     "0_Bin/Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md",
     "0_Bin/Ciencia y Tecnología/Tecnologización del mundo.md",
-    "Papers to Journals.md",
     "Notas sueltas.md",
     "Fil y Fil de la ciencia.md",
     "Filosofía y Ciencia/Sobre la enseñanza de la ciencia.md",

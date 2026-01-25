@@ -1,5 +1,5 @@
 
-**Thermodynamic Robustness Analysis** (Publicado 2025 )
+**1. Thermodynamic Robustness Analysis** (Publicado 2025 )
     1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
     2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
     3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
@@ -7,7 +7,7 @@
     5. Foundations of Science (APROBADO!)
     -  o  -
 
-**Anaximandric Vagueness** (shut down)
+**2. Anaximandric Vagueness** (shut down)
     1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
     2. Apeiron (https://mail.google.com/mail/u/0/#search/apeiron/FMfcgzQbfBnznRfHklvLcwqKQNbScsGZ)
     3. British Journal for the History of Philosophy (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgJPZnQjmpHqZJctbSfxlBZTp)
@@ -15,23 +15,22 @@
     Objeciones contundentes. Abandono el proyecto.
     - o -
 
-**Pattern Enactment and Scientific Representation** ==(enviado a Journal)== 
+**3. Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
+
+**4 . Pattern Enactment and Scientific Representation** ==(enviado a Journal)== 
 	1. Synthese (...)
 
-**Discordance Problem** ==(enviado a Journal)==
+**5. Discordance Problem** ==(enviado a Journal)==
 	1. European Journal of Philosophy of Science (...)
 
-**Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
+**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(entregado a Pio)==
 
-**Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
+**7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
-**The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
+**8. Biepistemic Science** (terminada la primera versión, y en reposo por ahora)
 
-**The Pragmatic Cubist Strategies Behind Scientific Realism** ==(entregado a Pio)==
+**9. Measurement systems as mediators** (por escribir)
 
-**Biepistemic Science** (terminada la primera versión, y en reposo por ahora)
+**11. Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
 
-**Measurement systems as mediators** (por escribir)
-
-**Emergence and Category Distinctions** (por escribir)
-
+**12. Emergence and Category Distinctions** (por escribir)
