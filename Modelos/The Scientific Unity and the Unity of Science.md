@@ -1,36 +1,4 @@
 
-
-For Aristotle, there are four causes that answer the question "why" about an object, in this case the scientific model: an efficient cause or principle of movement, a formal cause or essence, a material cause or matter and a final cause or end. In this case, the four causes of a given model will not be punctually practiced but will come to four definitions of what a scientific model in general is from the consideration of its four causes.
-
-In all cases a scientific model is made from the need to understand nature conceptually and objectively, and to intervene on it. The scientist is the "agent" who has been trained for this task of understanding nature and, said roughly and in a very simplified way, the engineer has been trained to intervene on it from this understanding. Both scientists and engineers in their formation access the set of successive patterns and at the juncture they act to spirally generate new structures, complementing or revising the previous ones. This leads to the first definition:
-
-* Definition of the scientific model from its efficient cause: a scientific model is a device carried on by scientist and engineers in the attempt to understand and/or intervene in nature in terms of its pattern.
-
-As there are multiple reasons that lead scientists to create models, there will consequently be a multiplicity of designs that give rise to “a proliferation of model types recognized in the philosophical literature. Probing models, phenomenological models, computational models, developmental models, explanatory models, impoverished models, testing models, idealized models, theoretical models, scale models, heuristic models, caricature models, exploratory models, didactic models, fantasy models, minimal models, toy models, imaginary models, mathematical models, mechanistic models, substitute models, iconic models, formal models, analogue models, and instrumental models are but some of the notions that are used to categorize models”. All these kinds are considered to share the aim of the "unitary understanding" of nature through a unitary symbolic system that is homologous to the empirical one in the target, as introduced in the previous section, which leads to the second definition:
-
-* Definition of the scientific model from its formal cause: scientific model is any symbolic device that contains a pattern which can be verified in a homologous structure in the target from its representation.
-
-The lists do not need to be considered exhaustive to show that what defines a model as scientific is not indeed that it is made up of such and such material, or that it presents this or that other way or form of expression or, in short, that it has a specific support. It can be added: it is enough that it renders a pattern that can represent a homologous pattern in a given target. Thus, in view of the multiple material manifestations of a scientific model, the following conclusion is reached:
-
-* Definition of the scientific model from its material cause: A scientific model is any instantiation that renders the pattern attributed to a target.
-
-Note that the meaning of this materiality does not exactly coincide with that of matter (mass) for classical physics. Instead, it refers an expression of a formal order, which does not ask which elements a model is made of but in what way it serves as a channel to access our understanding. 
-
-
-The name given to the pattern serves as a methodological guide for the relationship between a model and the target. The name, indeed, is to be considered part of a material instantiation of the pattern. If it is about a model of the digestive system from a figure commented on a sheet, its name denotes that it contains the basic concepts of the digestive system (pharynx, esophagus, liver, stomach...) and that such unitary elements each have its counterpart in the body that the sheet represents. For the first definition concerning the efficient cause, it has been concluded that the conformation of a model is given by the need to understand nature, in the case of this particular example the human body, and eventually to be able to intervene on it. It remains to make explicit the final cause of the model, its specific purpose, the result of its use.
-
-Considering its etymology, the term “model” comes from the Italian modello, broadly used during the Renaissance (XVI C), and this from the Latin modus, which can be translated as measure, size. In a music context, it is translated as beat, rhythm. Modus is also the root of other words such as modern, modify and module, that can be connected to “model” in order to semantically enrich it. It stresses the translation of modus as measure, which suggests that measurement is what adapts the model to something else. According to this etymological approach, a model can be thought of as something by virtue of which to measure (this definition broadly agrees with Morrison 2009, sec. 1). For the fourth definition of model, it will be often preferred to use the term “dimension”, since “measure” can be associated with the exclusively numerical. Thus, the term dimension admits numerical measure as a possible meaning, but is not restricted to it. Even with this caveat, it remains evident that the analysis of the measurement process in science, and through it, its interaction with technology, becomes indispensable to understand science from the particular view that is being proposed in this study.
-
-  
-
-Definition of the scientific model from its final cause: scientific model is each unitary arrangement from which it is possible to dimension an empirical target that allows for synergistic interaction with technology.
-
-  
-
-When analyzing scientific representation in theoretical terms, the scientific model is ultimately identified with the formal cause, while the target is generally identified with the material cause. This characterization has become in many cases a topic, since the publication of Giere´s (2004, 2010), who also talks about the need for subjects who design representation for certain purposes (efficient and final causes respectively). Such a proposal does not coincide with the one that is being attempted here, and this is not an indication of error in one or the other. In this section it has been preferred to focus attention on the model, which has shown to have a material character in addition to its formal structure.
-
-  
-
 ## 2.2 Specification of the scientific model from a list of underlined characteristics
 
   
