@@ -1,12 +1,6 @@
-# 2. Ontology and epistemology of the scientific model as a symbolic differentiator of science
 
-## 2.1 Definitions of the scientific model using the four Aristotelian causes
 
-  
-
-The definition of a scientific model stems from the difficulty that today there is not too firm a basis to define even a model in general. Dictionaries and encyclopedias coincide in that, in science, the meaning for the term model leans towards a device from which to represent what is generally called the target. Therefore, in science, a model makes sense as long as it is in relation to its empirical counterpart, a relationship called representation. This is also the starting point in this work, which has tried to advance a little more in the specification of the model by adding the pattern as a necessary component for it to be scientific. This leads directly to the possibility, but also to the need to define more specifically first the model, then the target, and finally the representation itself.
-
-For the former, a strategy will be used to define what a scientific model is by resorting to a most time-honored tradition, the doctrine of the four causes, which it is assumed does not require an exhaustive introduction, and on the other hand its preference as a methodological decision should not cause any problems. For Aristotle, there are four causes that answer the question "why" about an object, in this case the scientific model: an efficient cause or principle of movement, a formal cause or essence, a material cause or matter and a final cause or end. In this case, the four causes of a given model will not be punctually practiced but will come to four definitions of what a scientific model in general is from the consideration of its four causes.
+For Aristotle, there are four causes that answer the question "why" about an object, in this case the scientific model: an efficient cause or principle of movement, a formal cause or essence, a material cause or matter and a final cause or end. In this case, the four causes of a given model will not be punctually practiced but will come to four definitions of what a scientific model in general is from the consideration of its four causes.
 
 In all cases a scientific model is made from the need to understand nature conceptually and objectively, and to intervene on it. The scientist is the "agent" who has been trained for this task of understanding nature and, said roughly and in a very simplified way, the engineer has been trained to intervene on it from this understanding. Both scientists and engineers in their formation access the set of successive patterns and at the juncture they act to spirally generate new structures, complementing or revising the previous ones. This leads to the first definition:
 

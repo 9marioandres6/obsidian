@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+                "file": "Modelos/The Scientific Unity and the Unity of Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective"
+              "title": "The Scientific Unity and the Unity of Science"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+                "file": "Modelos/The Scientific Unity and the Unity of Science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective"
+              "title": "Outline of The Scientific Unity and the Unity of Science"
             }
           }
         ],
@@ -201,7 +201,7 @@
     "Medición/Definitions on Measurement from JCGM.md",
     "Medición/Tesis sobre una teoría de medición.md",
     "Medición/What is measurement?.md",
-    "Modelos/The Scientific Unity and the Unity of Science. A conciliatory attempt between set-theoretic structuralism and the model-based pragmatist perspective.md",
+    "Modelos/The Scientific Unity and the Unity of Science.md",
     "0_Bin/Cluster y ley/Lo que la explicación científica no explica.md",
     "0_Bin/Cluster y ley/La ley según otros autores.md",
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
