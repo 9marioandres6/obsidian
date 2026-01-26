@@ -4,35 +4,19 @@ For Aristotle, there are four causes that answer the question "why" about an obj
 
 In all cases a scientific model is made from the need to understand nature conceptually and objectively, and to intervene on it. The scientist is the "agent" who has been trained for this task of understanding nature and, said roughly and in a very simplified way, the engineer has been trained to intervene on it from this understanding. Both scientists and engineers in their formation access the set of successive patterns and at the juncture they act to spirally generate new structures, complementing or revising the previous ones. This leads to the first definition:
 
-Definition of the scientific model from its efficient cause: a scientific model is a device carried on by scientist and engineers in the attempt to understand and/or intervene in nature in terms of its pattern.
+* Definition of the scientific model from its efficient cause: a scientific model is a device carried on by scientist and engineers in the attempt to understand and/or intervene in nature in terms of its pattern.
 
 As there are multiple reasons that lead scientists to create models, there will consequently be a multiplicity of designs that give rise to “a proliferation of model types recognized in the philosophical literature. Probing models, phenomenological models, computational models, developmental models, explanatory models, impoverished models, testing models, idealized models, theoretical models, scale models, heuristic models, caricature models, exploratory models, didactic models, fantasy models, minimal models, toy models, imaginary models, mathematical models, mechanistic models, substitute models, iconic models, formal models, analogue models, and instrumental models are but some of the notions that are used to categorize models”. All these kinds are considered to share the aim of the "unitary understanding" of nature through a unitary symbolic system that is homologous to the empirical one in the target, as introduced in the previous section, which leads to the second definition:
 
-  
-
-Definition of the scientific model from its formal cause: scientific model is any symbolic device that contains a pattern which can be verified in a homologous structure in the target from its representation.
-
-  
-
-If it has a symbolic character, what is ultimately a scientific model? What is its materiality? Recalling the second cite of section 1.3 from Standard ISO 704 can help to outline an answer.
-
-  
-
-In natural language, concepts can be represented by terms, appellations, definitions or other linguistic forms; they may also be represented by symbols; in artificial language, they can be represented by codes or formulae, while in multimedia they can be represented by icons, pictures, diagrams, graphics, sound clips, video or other multimedia representations. Concepts may also be represented with the human body as they are in sign language, facial expressions or body movements.
-
-  
+* Definition of the scientific model from its formal cause: scientific model is any symbolic device that contains a pattern which can be verified in a homologous structure in the target from its representation.
 
 The lists do not need to be considered exhaustive to show that what defines a model as scientific is not indeed that it is made up of such and such material, or that it presents this or that other way or form of expression or, in short, that it has a specific support. It can be added: it is enough that it renders a pattern that can represent a homologous pattern in a given target. Thus, in view of the multiple material manifestations of a scientific model, the following conclusion is reached:
 
-  
+* Definition of the scientific model from its material cause: A scientific model is any instantiation that renders the pattern attributed to a target.
 
-Definition of the scientific model from its material cause: A scientific model is any instantiation that renders the pattern attributed to a target.
+Note that the meaning of this materiality does not exactly coincide with that of matter (mass) for classical physics. Instead, it refers an expression of a formal order, which does not ask which elements a model is made of but in what way it serves as a channel to access our understanding. 
 
-  
-
-Note that the meaning of this materiality does not exactly coincide with that of matter (mass) for classical physics. Instead, it means an instantiation of a formal order, which does not ask which elements a model is made of but in what way it serves as a channel to access our understanding. Thus, the matter / form pair can be thought to replace the concrete / abstract pair, most akin to being thought in relation to the material according to classical physics. For its part, the relationship between matter according to Aristotelian physics and matter according to classical physics will be further discussed below in section 3.2.
-
-The fact that the pattern, which is formal, does not coincide with the model allows us to answer a series of questions that are turning in the bibliography about models and representation. One of them is the condition of directionality according to which representation does not prove in practice to be symmetrical and reflective (the model represents its object but not vice versa), as opposed to the conclusions that some accounts suggest, for example those that defend representation as similarity or isomorphism. Herein the problem seems to dissolve if it is considered that, although the pattern is always symmetrical and reflective at best, the complete model, always under a material aspect, is what relates to the empirical target in an unidirectional way, so that it can be asserted that the (entire) model represents its target in a scientific way iff it carries a pattern that is (symmetrically) identified with the one of the target. Strictly speaking, there is no representation between patterns.
+The fact that the pattern, which is formal, does not coincide with the model allows to answer a series of questions that are turning in the bibliography about models and representation. One of them is the condition of directionality according to which representation does not prove in practice to be symmetrical and reflective (the model represents its object but not vice versa), as opposed to the conclusions that some accounts suggest, for example those that defend representation as similarity or isomorphism. Herein the problem seems to dissolve if it is considered that, although the pattern is always symmetrical and reflective at best, the complete model, always under a material aspect, is what relates to the empirical target in an unidirectional way, so that it can be asserted that the (entire) model represents its target in a scientific way iff it carries a pattern that is (symmetrically) identified with the one of the target. Strictly speaking, there is no representation between patterns.
 
 The name given to the pattern serves as a methodological guide for the relationship between a model and the target. The name, indeed, is to be considered part of a material instantiation of the pattern. If it is about a model of the digestive system from a figure commented on a sheet, its name denotes that it contains the basic concepts of the digestive system (pharynx, esophagus, liver, stomach...) and that such unitary elements each have its counterpart in the body that the sheet represents. For the first definition concerning the efficient cause, it has been concluded that the conformation of a model is given by the need to understand nature, in the case of this particular example the human body, and eventually to be able to intervene on it. It remains to make explicit the final cause of the model, its specific purpose, the result of its use.
 
