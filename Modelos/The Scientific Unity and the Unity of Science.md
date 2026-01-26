@@ -2,7 +2,6 @@
 
 ## 2.3 The precision frame for the model and its derivation on the discontinuity principle
 
-  
 
 Every measuring instrument has, by design, specified a maximum degree of precision that can be obtained when using it. With this precision degree the precision degree allowed by the model of a given object should not be confused. It is a fact that the precision of measuring instruments is related to that of the model to which the measurement results are directed, and when the precision of the instrument challenges the model, its credibility can go into crisis, as has been well noted by Kuhn (1979 The essential tension, el capítulo sobre medición). In any case, the measuring instrument must have a sufficient precision according to the precision required by the object model. Each model implies by design an upper and lower limit for the dimensioning of its target, such that outside the limits the same is no longer measured (Tal 2012). In the case of numerical models, the required precision is usually also suggested numerically; in other cases the precision is made explicit only when necessary.
 
