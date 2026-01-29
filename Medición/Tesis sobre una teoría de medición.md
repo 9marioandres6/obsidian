@@ -46,23 +46,22 @@
 
 
 
-|   |   |
-|---|---|
-|Determination|Assignment|
-|“extracted” and expressed in formal terms|ontologically existing in the thing|
-|It is evaluated the degree of approximation of its result to the true value.|The true value is the value that the best possible instrument would have generated|
-|The difference between the true value and the result of a measurement is an “error”|The true value is the result of the measurement|
-|Descriptive|Normative|
-|The axioms should be interpreted as conditions on either the described things|The axioms should be interpreted as the way such things are described|
-|The axioms describe characteristic of objects|The axioms express a rationality condition in the evaluation of objects|
-|The sentence expressing the result of a measurement is assumed to have a given, although possibly unknown, truth value associated with it|The result of a measurement is not subject to truth evaluation but can be recognized as more or less adequate to a given goal|
-|The expression of measurement results has a descriptive function, thus being more or less true|The expression of measurement results has a signaling function, thus being more or less efficient|
-|Empirical (or experimental) sciences|Formal (or theoretical) sciences|
-|Operation of only empirical nature|Operation “charged with theory”|
-|Objectivistic concept of truth|Subjectivistic criterion of the consensus|
-|Output determined by the Acquisition Component|Output assigned by the Presentation Component|
-|Instrument?|Model?|
-
+|                                                                                                                                           |                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Determination                                                                                                                             | Assignment                                                                                                                    |
+| “extracted” and expressed in formal terms                                                                                                 | ontologically existing in the thing                                                                                           |
+| It is evaluated the degree of approximation of its result to the true value.                                                              | The true value is the value that the best possible instrument would have generated                                            |
+| The difference between the true value and the result of a measurement is an “error”                                                       | The true value is the result of the measurement                                                                               |
+| Descriptive                                                                                                                               | Normative                                                                                                                     |
+| The axioms should be interpreted as conditions on either the described things                                                             | The axioms should be interpreted as the way such things are described                                                         |
+| The axioms describe characteristic of objects                                                                                             | The axioms express a rationality condition in the evaluation of objects                                                       |
+| The sentence expressing the result of a measurement is assumed to have a given, although possibly unknown, truth value associated with it | The result of a measurement is not subject to truth evaluation but can be recognized as more or less adequate to a given goal |
+| The expression of measurement results has a descriptive function, thus being more or less true                                            | The expression of measurement results has a signaling function, thus being more or less efficient                             |
+| Empirical (or experimental) sciences                                                                                                      | Formal (or theoretical) sciences                                                                                              |
+| Operation of only empirical nature                                                                                                        | Operation “charged with theory”                                                                                               |
+| Objectivistic concept of truth                                                                                                            | Subjectivistic criterion of the consensus                                                                                     |
+| Output determined by the Acquisition Component                                                                                            | Output assigned by the Presentation Component                                                                                 |
+| Instrument?                                                                                                                               | Model?                                                                                                                        |
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medición/Tesis sobre una teoría de medición.md",
+                "file": "Medición/Definitions on Measurement from JCGM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tesis sobre una teoría de medición"
+              "title": "Definitions on Measurement from JCGM"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medición/Tesis sobre una teoría de medición.md",
+                "file": "Medición/Definitions on Measurement from JCGM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tesis sobre una teoría de medición"
+              "title": "Outline of Definitions on Measurement from JCGM"
             }
           }
         ],
@@ -176,6 +176,7 @@
   },
   "active": "77a95331ff5daa7f",
   "lastOpenFiles": [
+    "Medición/Tesis sobre una teoría de medición.md",
     "Medición/What is measurement?.md",
     "Para la publicación de libros.md",
     "Notas sueltas.md",
@@ -186,7 +187,6 @@
     "0_Bin/Emergence and category distinctions.md",
     "Medición/The problem of the objectivity of the reference.md",
     "Medición/Definitions on Measurement from JCGM.md",
-    "Medición/Tesis sobre una teoría de medición.md",
     "0_Bin/Cluster y ley/Lo que la explicación científica no explica.md",
     "0_Bin/Cluster y ley/La ley según otros autores.md",
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
