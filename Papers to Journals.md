@@ -41,12 +41,15 @@
 
 
 
-1. Introducción a la historia de la filosofía de la ciencia
+## The Scientific Unity and the Unity of Science
+#### an engineering reconstruction of scientific practices
+
+1. Introduction to the History of Philosophy of Science
 2. Anaximandric Vagueness
 3. Naturalism
-4. The Scientific Unity and the Unity of Science
+4. The Scientific Unity
 
-5. Emergence and Category Distinctions
+5. Category Distinctions
 6. Pattern Enactment and Scientific Representation
 7. Discordance Problem
 8. The Pragmatic Cubist Strategies Behind Scientific Realism
