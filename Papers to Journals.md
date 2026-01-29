@@ -31,6 +31,8 @@
 
 **9. Measurement systems as mediators** (por escribir)
 
+**10. Introducción a la filosofía de la ciencia** (en elaboración)
+
 **11. Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
 
 **12. Emergence and Category Distinctions** (por escribir)
@@ -39,30 +41,20 @@
 
 
 
-
-
-
-
-
-
-1. Pattern Enactment and Scientific Representation
-2. Emergence and Category Distinctions
+1. Emergence and Category Distinctions
+2. Pattern Enactment and Scientific Representation
 3. Discordance Problem
 4. The Pragmatic Cubist Strategies Behind Scientific Realism
 
+5. Measurement systems as mediators
+6. Naturalism
+7. The Scientific Unity and the Unity of Science
+8. Epistemic Iteration and the Construction of Scientific Patterns
+9. Thermodynamic Robustness Analysis
 
-5. Epistemic Iteration and the Construction of Scientific Patterns
+10. Biepistemic Science
 
 
-The Scientific Unity and the Unity of Science
-
-Biepistemic Science
-
-Measurement systems as mediators
-
-Naturalism
-
-Thermodynamic Robustness Analysis
+Introducción a la filosofía de la ciencia
 
 Anaximandric Vagueness
-
