@@ -20,7 +20,6 @@ Scales are possible in the first place only because there is a certain isomorphi
     
 
   
-
 The isomorphism between these properties of the numeral series and certain empirical operations which we perform with objects permits the use of the series as a model to represent aspects of the empirical world.
 
   
