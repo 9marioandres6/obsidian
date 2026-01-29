@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Modelos/The Scientific Unity and the Unity of Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to Journals"
+              "title": "The Scientific Unity and the Unity of Science"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Modelos/The Scientific Unity and the Unity of Science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Papers to Journals"
+              "title": "Outline of The Scientific Unity and the Unity of Science"
             }
           }
         ],
@@ -176,8 +176,8 @@
   },
   "active": "000ae84e119b2dea",
   "lastOpenFiles": [
-    "Modelos/The Scientific Unity and the Unity of Science.md",
     "Papers to Journals.md",
+    "Modelos/The Scientific Unity and the Unity of Science.md",
     "Para la publicación de libros.md",
     "Studying Abroad!.md",
     "Fil y Fil de la ciencia.md",

@@ -41,8 +41,8 @@
 
 
 
-## The Scientific Unity and the Unity of Science
-#### an engineering reconstruction of scientific practices
+# The Scientific Unity and the Unity of Science
+## An Multi-Layered Engineering Reconstruction of Scientific Practices
 
 1. Introduction to the History of Philosophy of Science
 2. Naturalism
@@ -50,13 +50,13 @@
 4. The Scientific Unity
 
 5. Category Distinctions
-6. Pattern Enactment and Scientific Representation
-7. Discordance Problem
-8. The Pragmatic Cubist Strategies Behind Scientific Realism
+6. **Pattern Enactment and Scientific Representation
+7. **Discordance Problem
+8. **+** The Pragmatic Cubist Strategies Behind Scientific Realism
 
-9. Epistemic Iteration and the Construction of Scientific Patterns
+9. **+** Epistemic Iteration and the Construction of Scientific Patterns
 10. Detection Systems as Mediators
-11. Thermodynamic Robustness Analysis
+11. **Thermodynamic Robustness Analysis
 12. Biepistemic Science
 
 
