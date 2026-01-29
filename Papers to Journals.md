@@ -45,8 +45,8 @@
 #### an engineering reconstruction of scientific practices
 
 1. Introduction to the History of Philosophy of Science
-2. Anaximandric Vagueness
-3. Naturalism
+2. Naturalism
+3. Anaximandric Vagueness
 4. The Scientific Unity
 
 5. Category Distinctions
@@ -54,8 +54,8 @@
 7. Discordance Problem
 8. The Pragmatic Cubist Strategies Behind Scientific Realism
 
-9. Measurement systems as mediators
-10. Epistemic Iteration and the Construction of Scientific Patterns
+9. Epistemic Iteration and the Construction of Scientific Patterns
+10. Detection Systems as Mediators
 11. Thermodynamic Robustness Analysis
 12. Biepistemic Science
 
