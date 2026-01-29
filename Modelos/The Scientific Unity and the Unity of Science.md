@@ -5,8 +5,6 @@
 
 Next, it is intended to unravel step by step a particular view of the process involved in scientific and engineering practice, considering the main activities that are necessarily involved. According to the explanatory scheme adopted herein, it can be seen that the different activities fluctuate between the symbolic and the empirical, and also between the theoretical and the practical. It is concluded, looking at the general scheme, that scientific and technological activity share practically all their main elements and differ mainly in the object to which they tend, in one case the scientific model and in the other the technological product.
 
-  
-
 1. Interaction. The first stage corresponds to measurement in empirical terms, the interaction between the object to be measured and the measuring instrument, which is considered to come from the production stage, the last of the six stages to be analyzed in this scheme.
     
 2. Computing. Then comes the symbolic stage of measurement, in which the raw data reading is computed until reaching the outcome. At this stage, mathematical knowledge is mainly involved.
