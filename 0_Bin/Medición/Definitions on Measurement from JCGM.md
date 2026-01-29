@@ -101,8 +101,6 @@ EXAMPLES: Voltmeter, micrometer, thermometer, electronic balance.
 [What is not an indicating MI?]
 
 - Displaying measuring instrument (3.4): indicating measuring instrument where the output signal is presented in visual form.
-    
-
   
 
 Measuring system (3.2): set of one or more measuring instruments and often other devices, including any reagent and supply, assembled and adapted to give information used to generate measured quantity values within specified intervals for quantities of specified kinds.
