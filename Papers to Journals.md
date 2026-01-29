@@ -15,7 +15,7 @@
     Objeciones contundentes. Abandono el proyecto.
     - o -
 
-**3. Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
+**3. Epistemic Iteration and the Construction of Scientific Patterns** **==(entregado a MCDQ)==**
 
 **4 . Pattern Enactment and Scientific Representation** ==(enviado a Journal)== 
 	1. Synthese (...)
@@ -23,7 +23,7 @@
 **5. Discordance Problem** ==(enviado a Journal)==
 	1. European Journal of Philosophy of Science (...)
 
-**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(entregado a Pio)==
+**6. The Pragmatic Cubist Strategies Behind Scientific Realism** **==(entregado a Pio)==**
 
 **7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
