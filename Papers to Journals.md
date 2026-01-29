@@ -41,20 +41,23 @@
 
 
 
-1. Emergence and Category Distinctions
-2. Pattern Enactment and Scientific Representation
-3. Discordance Problem
-4. The Pragmatic Cubist Strategies Behind Scientific Realism
+1. Introducción a la historia de la filosofía de la ciencia
+2. Anaximandric Vagueness
+3. Naturalism
+4. The Scientific Unity and the Unity of Science
 
-5. Measurement systems as mediators
-6. Naturalism
-7. The Scientific Unity and the Unity of Science
-8. Epistemic Iteration and the Construction of Scientific Patterns
-9. Thermodynamic Robustness Analysis
+5. Emergence and Category Distinctions
+6. Pattern Enactment and Scientific Representation
+7. Discordance Problem
+8. The Pragmatic Cubist Strategies Behind Scientific Realism
 
-10. Biepistemic Science
+9. Measurement systems as mediators
+10. Epistemic Iteration and the Construction of Scientific Patterns
+11. Thermodynamic Robustness Analysis
+12. Biepistemic Science
 
 
-Introducción a la filosofía de la ciencia
 
-Anaximandric Vagueness
+
+
+
