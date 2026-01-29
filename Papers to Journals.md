@@ -34,3 +34,35 @@
 **11. Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
 
 **12. Emergence and Category Distinctions** (por escribir)
+
+
+
+
+
+
+
+
+
+
+
+1. Pattern Enactment and Scientific Representation
+2. Emergence and Category Distinctions
+3. Discordance Problem
+4. The Pragmatic Cubist Strategies Behind Scientific Realism
+
+
+5. Epistemic Iteration and the Construction of Scientific Patterns
+
+
+The Scientific Unity and the Unity of Science
+
+Biepistemic Science
+
+Measurement systems as mediators
+
+Naturalism
+
+Thermodynamic Robustness Analysis
+
+Anaximandric Vagueness
+
