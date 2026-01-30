@@ -42,7 +42,7 @@
 
 
 # The Scientific Unity and the Unity of Science
-## An Multi-Layered Engineering Reconstruction of Scientific Practices
+## An Engineering Reconstruction of Scientific Practices
 
 1. Introduction to the History of Philosophy of Science
 2. Naturalism
