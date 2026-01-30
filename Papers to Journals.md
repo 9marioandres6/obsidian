@@ -39,6 +39,13 @@
 
 
 
+#### Closer to Barad:
+Andrew Pickering
+Hans-Jörg Rheinberger
+Joseph Rouse
+Isabelle Stengers
+Donna Haraway
+
 
 
 # The Scientific Unity and the Unity of Science
