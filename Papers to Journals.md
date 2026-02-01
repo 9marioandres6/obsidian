@@ -23,7 +23,8 @@
 **5. Discordance Problem** ==(enviado a Journal)==
 	1. European Journal of Philosophy of Science (...)
 
-**6. The Pragmatic Cubist Strategies Behind Scientific Realism** **==(entregado a Pio)==**
+**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(enviado a Journal)==
+	1. The British Journal for the Philosophy of Science
 
 **7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
@@ -59,12 +60,12 @@ Donna Haraway
 5. Category Distinctions
 6. **Pattern Enactment and Scientific Representation
 7. **Discordance Problem
-8. **+** The Pragmatic Cubist Strategies Behind Scientific Realism
+8. **The Pragmatic Cubist Strategies Behind Scientific Realism
 
 9. **+** Epistemic Iteration and the Construction of Scientific Patterns
-10. Detection Systems as Mediators
+10. **+** Detection Systems as Mediators
 11. **Thermodynamic Robustness Analysis
-12. Biepistemic Science
+12. **+** Biepistemic Science
 
 
 
