@@ -7,7 +7,7 @@
     5. Foundations of Science (APROBADO!)
     -  o  -
 
-**2. Anaximandric Vagueness** (shut down)
+**2. Anaximandric Vagueness** (procesing)
     1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
     2. Apeiron (https://mail.google.com/mail/u/0/#search/apeiron/FMfcgzQbfBnznRfHklvLcwqKQNbScsGZ)
     3. British Journal for the History of Philosophy (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgJPZnQjmpHqZJctbSfxlBZTp)
@@ -30,7 +30,7 @@
 
 **8. Biepistemic Science** (terminada la primera versión, y en reposo por ahora)
 
-**9. Measurement systems as mediators** (por escribir)
+**9. Measurement systems as mediators** (terminada la primera versión)
 
 **10. Introducción a la filosofía de la ciencia** (en elaboración)
 
@@ -54,7 +54,7 @@ Donna Haraway
 
 1. Introduction to the History of Philosophy of Science
 2. Naturalism
-3. Anaximandric Vagueness
+3. **+** Anaximandric Vagueness
 4. The Scientific Unity
 
 5. Category Distinctions
