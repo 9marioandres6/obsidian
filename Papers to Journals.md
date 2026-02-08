@@ -52,20 +52,22 @@ Donna Haraway
 # The Scientific Unity and the Unity of Science
 ## An Engineering Reconstruction of Scientific Practices
 
-1. Introduction to the History of Philosophy of Science
-2. Naturalism
-3. **+** Anaximandric Vagueness
-4. The Scientific Unity
+1. Natural Philosophers
+2. The problem of representation
+3. Naturalism
+4. **+** Anaximandric Vagueness
+5. The Scientific Unity
 
-5. Category Distinctions
-6. **Pattern Enactment and Scientific Representation
-7. **Discordance Problem
-8. **The Pragmatic Cubist Strategies Behind Scientific Realism
+6. Causality
+7. Category Distinctions
+8. **Pattern Enactment and Scientific Representation
+9. **Discordance Problem
+10. **The Pragmatic Cubist Strategies Behind Scientific Realism
 
-9. **+** Epistemic Iteration and the Construction of Scientific Patterns
-10. **+** Detection Systems as Mediators
-11. **Thermodynamic Robustness Analysis
-12. **+** Biepistemic Science
+11. **Epistemic Iteration and the Construction of Scientific Patterns
+12. **+** Detection Systems as Mediators
+13. **Thermodynamic Robustness Analysis
+14. **+** Biepistemic Science
 
 
 
