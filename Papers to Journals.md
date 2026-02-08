@@ -64,7 +64,7 @@ Donna Haraway
 9. **Discordance Problem
 10. **+** Detection Systems as Mediators
 
-11. Causality
+11. **+** Causality
 12. **Epistemic Iteration and the Construction of Scientific Patterns
 13. **Thermodynamic Robustness Analysis
 14. **+** Biepistemic Science
