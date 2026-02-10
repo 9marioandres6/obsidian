@@ -62,10 +62,10 @@ Donna Haraway
 7. **The Pragmatic Cubist Strategies Behind Scientific Realism
 8. **Pattern Enactment and Scientific Representation
 9. **Discordance Problem
-10. **+** Detection Systems as Mediators
 
-11. **+** Causality
-12. **Epistemic Iteration and the Construction of Scientific Patterns
+10. **+** Causality
+11. **Epistemic Iteration and the Construction of Scientific Patterns
+12.  **+** Detection Systems as Mediators
 13. **Thermodynamic Robustness Analysis
 14. **+** Biepistemic Science
 
