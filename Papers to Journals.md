@@ -7,7 +7,7 @@
     5. Foundations of Science (APROBADO!)
     -  o  -
 
-**2. Anaximandric Vagueness** (procesing)
+**2. Anaximandric Vagueness** (processing)
     1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
     2. Apeiron (https://mail.google.com/mail/u/0/#search/apeiron/FMfcgzQbfBnznRfHklvLcwqKQNbScsGZ)
     3. British Journal for the History of Philosophy (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgJPZnQjmpHqZJctbSfxlBZTp)
@@ -24,7 +24,8 @@
 	1. European Journal of Philosophy of Science (...)
 
 **6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(enviado a Journal)==
-	1. The British Journal for the Philosophy of Science
+	1. The British Journal for the Philosophy of Science (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
+	2. 
 
 **7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
