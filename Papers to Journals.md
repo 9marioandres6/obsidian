@@ -67,7 +67,7 @@ Donna Haraway
 
 11. **+** Causality
 12. **Epistemic Iteration and the Construction of Scientific Patterns
-13.  **+** Detection Systems as Mediators
+13. **Detection Systems as Mediators**
 14. **Thermodynamic Robustness Analysis
 15. **+** Biepistemic Science
 
