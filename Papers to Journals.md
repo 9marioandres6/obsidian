@@ -30,7 +30,8 @@
 
 **8. Biepistemic Science** (terminada la primera versión, y en reposo por ahora)
 
-**9. Measurement systems as mediators** (terminada la primera versión)
+**9. Measurement systems as mediators** ==(enviado a Journal)==
+1. *Philosophy & Technology*
 
 **10. Introducción a la filosofía de la ciencia** (en elaboración)
 
