@@ -59,9 +59,9 @@ Donna Haraway
 4. Naturalism
 5. **+** Anaximandric Vagueness
 
-6. Category Distinctions
-7. **The Pragmatic Cubist Strategies Behind Scientific Realism
-8. **Pattern Enactment and Scientific Representation
+6. **The Pragmatic Cubist Strategies Behind Scientific Realism
+7. **Pattern Enactment and Scientific Representation
+8. Category Distinctions
 9. **Discordance Problem
 10. Generic Knowledge in Scientific Practice (ex Scientific Unity)
 
