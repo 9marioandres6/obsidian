@@ -61,7 +61,7 @@ Donna Haraway
 
 6. **The Pragmatic Cubist Strategies Behind Scientific Realism
 7. **Pattern Enactment and Scientific Representation
-8. Category Distinctions
+8. **Category Distinctions
 9. **Discordance Problem
 10. Generic Knowledge in Scientific Practice (ex Scientific Unity)
 
