@@ -55,8 +55,8 @@ Donna Haraway
 
 1. Natural Philosophers
 2. The problem of representation
-3. Naturalism
-4. **+** Anaximandric Vagueness
+3. Anaximandric Vagueness
+4. Naturalism
 5. Generic Knowledge in Scientific Practice (ex Scientific Unity)
 
 6. **Category Distinctions
