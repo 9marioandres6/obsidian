@@ -74,4 +74,9 @@ Donna Haraway
 
 
 
-
+* Finish the review of the paper about biepistemic science
+* Review Cismondi´s paper about epistemic iteration
+* Vienna Circle: see how to apply
+* Integrate old paper about category distinctions in the new paper about CD.
+* Give a publishable end to the paper about biepistemic science
+* Work on the paper about Causality
