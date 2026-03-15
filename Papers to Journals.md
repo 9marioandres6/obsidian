@@ -59,7 +59,7 @@ Donna Haraway
 4. Naturalism
 5. Generic Knowledge in Scientific Practice (ex Scientific Unity)
 
-6. **Category Distinctions
+6. **+** **Category Distinctions
 7. **Pattern Enactment and Scientific Representation
 8. **Discordance Problem
 9. **The Pragmatic Cubist Strategies Behind Scientific Realism
@@ -68,7 +68,7 @@ Donna Haraway
 11. **Epistemic Iteration and the Construction of Scientific Patterns
 12. **Measuring Systems as Mediators**
 13. **Thermodynamic Robustness Analysis
-14. **+** Biepistemic Science
+14. **+** **Biepistemic Science
 
 
 
