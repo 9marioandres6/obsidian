@@ -53,28 +53,24 @@ Donna Haraway
 # The Scientific Unity and the Unity of Science
 ## An Engineering Reconstruction of Scientific Practices
 
-1. Natural Philosophers
-2. The problem of representation
-3. Anaximandric Vagueness
-4. Naturalism
-5. Generic Knowledge in Scientific Practice (ex Scientific Unity)
+1. Generic Knowledge in Scientific Practice (ex Scientific Unity)
+2. **+** **Category Distinctions
+3. **Pattern Enactment and Scientific Representation
+4. **Discordance Problem
+5. **The Pragmatic Cubist Strategies Behind Scientific Realism
+6. **+** Causality
+7. **Epistemic Iteration and the Construction of Scientific Patterns
+8. **Measuring Systems as Mediators**
+9. **Thermodynamic Robustness Analysis
+10. **+** **Biepistemic Science
 
-6. **+** **Category Distinctions
-7. **Pattern Enactment and Scientific Representation
-8. **Discordance Problem
-9. **The Pragmatic Cubist Strategies Behind Scientific Realism
+**
 
-10. **+** Causality
-11. **Epistemic Iteration and the Construction of Scientific Patterns
-12. **Measuring Systems as Mediators**
-13. **Thermodynamic Robustness Analysis
-14. **+** **Biepistemic Science
+1. Sobre los filósofos naturales del Siglo XIX
+2. La Naturaleza a través de la historia
+3. Vaguedad Anaximándrica
+4. Historia de la Representación en Ciencia
+5. El quiebre entre la unidad entre teoría y mundo
+6. Relación entre Teoría y Mundo en Nancy Cartwright
+7. Pattern Enactment
 
-
-
-
-
-* Integrate old paper about category distinctions in the new paper about CD. Add mainly the sample cases.
-* Vienna Circle: see how to apply
-* Give a publishable end to the paper about biepistemic science
-* Work on the paper about Causality
