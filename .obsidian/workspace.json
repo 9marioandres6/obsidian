@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Is water H₂O?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to Journals"
+              "title": "Is water H₂O?"
             }
           }
         ],
@@ -76,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Is water H₂O?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Papers to Journals"
+              "title": "Esquema de Is water H₂O?"
             }
           },
           {
@@ -204,8 +204,11 @@
   },
   "active": "b10b674d17602209",
   "lastOpenFiles": [
-    "Is water H₂O?.md",
+    "0_Bin/Modelos/Tres imprecisiones en filosofía de la ciencia.md",
+    "0_Bin/Modelos/The model from the robust pattern.md",
+    "0_Bin/Modelos/Scientific models have patterns, not structures.md",
     "Papers to Journals.md",
+    "Is water H₂O?.md",
     "Studying Abroad!.md",
     "Para la publicación de libros.md",
     "0_Bin/Notas sueltas.md",
@@ -223,13 +226,10 @@
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
     "0_Bin/Cluster y ley/Características del Cluster.md",
     "0_Bin/Cluster y ley/El cluster.md",
-    "0_Bin/Modelos/Scientific models have patterns, not structures.md",
     "Filosofía y Ciencia/Snowflake generation.md",
     "0_Bin/Ciencia y Tecnología/Robustez y tecnología.md",
     "0_Bin/Ciencia y Tecnología/Robustez en ciencias naturales.md",
     "Filosofía y Ciencia/The revival of the demarcation problem.md",
-    "0_Bin/Ciencia y Tecnología/Primer estadío de obtención de robustez.md",
-    "0_Bin/Ciencia y Tecnología/Tecnologización del experimento según el tamaño.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
