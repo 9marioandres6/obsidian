@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Is water H₂O?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to Journals"
+              "title": "Is water H₂O?"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Is water H₂O?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Papers to Journals"
+              "title": "Esquema de Is water H₂O?"
             }
           },
           {
@@ -204,17 +204,17 @@
   },
   "active": "b10b674d17602209",
   "lastOpenFiles": [
+    "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
+    "Papers to Journals.md",
     "Is water H₂O?.md",
     "0_Bin/Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "0_Bin/Modelos/The model from the robust pattern.md",
     "0_Bin/Modelos/Scientific models have patterns, not structures.md",
-    "Papers to Journals.md",
     "Studying Abroad!.md",
     "Para la publicación de libros.md",
     "0_Bin/Notas sueltas.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Filosofía y Ciencia/Fil y Fil de la ciencia.md",
-    "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
     "0_Bin/Medición/The problem of the objectivity of the reference.md",
     "0_Bin/Medición/Definitions on Measurement from JCGM.md",
     "0_Bin/Medición/Tesis sobre una teoría de medición.md",
