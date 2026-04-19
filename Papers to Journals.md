@@ -60,9 +60,10 @@ Donna Haraway
 5. **The Pragmatic Cubist Strategies Behind Scientific Realism
 6. **+** Causality
 7. **Epistemic Iteration and the Construction of Scientific Patterns
-8. **Measuring Systems as Mediators**
-9. **Thermodynamic Robustness Analysis
-10. **+** **Biepistemic Science
+8. Category Theory
+9. **Measuring Systems as Mediators**
+10. **Thermodynamic Robustness Analysis
+11. **+** **Biepistemic Science
 
 **
 
