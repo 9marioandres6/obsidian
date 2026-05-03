@@ -14,7 +14,7 @@
     4. *HOPOS* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzwBZLdLCRqpGtLMBDCdfGtMN)
     5. ...
 
-**3. Epistemic Iteration and the Construction of Scientific Patterns** ==(entregado a MCDQ)==
+**3. Epistemic Iteration and the Construction of Scientific Patterns** ==(enviado a Journal)==
 
 **4 . Pattern Enactment and Scientific Representation** ==(enviado a Journal)== 
 	1. *Synthese* (...)
@@ -22,9 +22,9 @@
 **5. Discordance Problem** ==(enviado a Journal)==
 	1. *European Journal of Philosophy of Science* (...)
 
-**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(enviado a Journal)==
+**6. The Pragmatic Cubist Strategies Behind Scientific Realism** (reviews needed)
 	1. *The British Journal for the Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
-	2. *Philosophy of Science* (...)
+	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
 
 **7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
