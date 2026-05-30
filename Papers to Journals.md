@@ -41,15 +41,6 @@
 
 
 
-#### Closer to Barad:
-Andrew Pickering
-Hans-Jörg Rheinberger
-Joseph Rouse
-Isabelle Stengers
-Donna Haraway
-
-
-
 # The Scientific Unity and the Unity of Science
 ## An Engineering Reconstruction of Scientific Practices
 
@@ -74,4 +65,14 @@ Donna Haraway
 5. El quiebre entre la unidad entre teoría y mundo
 6. Relación entre Teoría y Mundo en Nancy Cartwright
 7. Pattern Enactment
+
+
+
+
+#### Closer to Barad:
+Andrew Pickering
+Hans-Jörg Rheinberger
+Joseph Rouse
+Isabelle Stengers
+Donna Haraway
 
