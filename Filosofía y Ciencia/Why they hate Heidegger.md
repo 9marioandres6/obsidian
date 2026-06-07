@@ -1,4 +1,4 @@
-Here's why many scholars resent Heidegger: it's the result of two contradictory issues:
+Here's why many scholars resent Heidegger: it's the result of two unavoidable issues:
 
 1. They don't understand him (or his core concepts).
 2. His work appears unavoidable (or fundamentally essential).

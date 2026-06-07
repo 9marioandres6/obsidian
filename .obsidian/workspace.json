@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to Journals"
+              "title": "Daston - The Image of Ofjectivity - Notas"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Papers to Journals"
+              "title": "Esquema de Daston - The Image of Ofjectivity - Notas"
             }
           },
           {
@@ -189,9 +189,11 @@
   },
   "active": "942fe61a51ae969e",
   "lastOpenFiles": [
-    "Is water H₂O?.md",
+    "Filosofía y Ciencia/Why they hate Heidegger.md",
+    "Filosofía y Ciencia/Snowflake generation.md",
     "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
     "Papers to Journals.md",
+    "Is water H₂O?.md",
     "0_Bin/Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "0_Bin/Modelos/The model from the robust pattern.md",
     "0_Bin/Modelos/Scientific models have patterns, not structures.md",
@@ -211,10 +213,8 @@
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
     "0_Bin/Cluster y ley/Características del Cluster.md",
     "0_Bin/Cluster y ley/El cluster.md",
-    "Filosofía y Ciencia/Snowflake generation.md",
     "0_Bin/Ciencia y Tecnología/Robustez y tecnología.md",
     "0_Bin/Ciencia y Tecnología/Robustez en ciencias naturales.md",
-    "Filosofía y Ciencia/The revival of the demarcation problem.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
