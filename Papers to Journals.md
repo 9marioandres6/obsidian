@@ -15,6 +15,7 @@
     5. ...
 
 **3. Epistemic Iteration and the Construction of Scientific Patterns** ==(enviado a Journal)==
+	1. *Foundation of Science* (...)
 
 **4 . Pattern Enactment and Scientific Representation** ==(enviado a Journal)== 
 	1. *Synthese* (...)
@@ -25,6 +26,7 @@
 **6. The Pragmatic Cubist Strategies Behind Scientific Realism** (reviews needed)
 	1. *The British Journal for the Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
+	3. 
 
 **7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
