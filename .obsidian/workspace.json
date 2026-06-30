@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Side Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to Journals"
+              "title": "Side Projects"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to Journals.md",
+                "file": "Side Projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Papers to Journals"
+              "title": "Esquema de Side Projects"
             }
           },
           {
@@ -189,13 +189,16 @@
   },
   "active": "942fe61a51ae969e",
   "lastOpenFiles": [
+    "Papers to Journals.md",
+    "Is water H₂O?.md",
+    "Sin título.md",
     "Para la publicación de libros.md",
+    "Sin nombre",
+    "Side Projects.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Filosofía y Ciencia/Why they hate Heidegger.md",
     "Filosofía y Ciencia/Snowflake generation.md",
     "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
-    "Papers to Journals.md",
-    "Is water H₂O?.md",
     "0_Bin/Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "0_Bin/Modelos/The model from the robust pattern.md",
     "0_Bin/Modelos/Scientific models have patterns, not structures.md",
@@ -213,8 +216,6 @@
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
     "0_Bin/Cluster y ley/Características del Cluster.md",
     "0_Bin/Cluster y ley/El cluster.md",
-    "0_Bin/Ciencia y Tecnología/Robustez y tecnología.md",
-    "0_Bin/Ciencia y Tecnología/Robustez en ciencias naturales.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
@@ -235,7 +236,6 @@
     "Pasted image 20250523230548.png",
     "Recording 20250224210326.m4a",
     "Recording 20250224210441.m4a",
-    "Recording 20250224210314.m4a",
     "Abstraction, Idealization, Approximation.canvas",
     "Pasted image 20240922104452.png"
   ]
