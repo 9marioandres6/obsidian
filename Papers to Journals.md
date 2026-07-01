@@ -1,5 +1,5 @@
 
-**1. Thermodynamic Robustness Analysis** (Publicado 2025 )
+**1. Thermodynamic Robustness Analysis** (Publicado 2025)
     1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
     2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
     3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
@@ -17,16 +17,16 @@
 **3. Epistemic Iteration and the Construction of Scientific Patterns** ==(enviado a Journal)==
 	1. *Foundation of Science* (...)
 
-**4 . Pattern Enactment and Scientific Representation** ==(enviado a Journal)== 
-	1. *Synthese* (...)
+**4 . Pattern Enactment and Scientific Representation** ==(editing)== 
+	1. *Synthese* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMgKQXTwSLcvMGspdvFSxPFdD)
 
 **5. Discordance Problem** ==(enviado a Journal)==
 	1. *European Journal of Philosophy of Science* (...)
 
-**6. The Pragmatic Cubist Strategies Behind Scientific Realism** (reviews needed)
+**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(enviado a Journal)== 
 	1. *The British Journal for the Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
-	3. 
+	3. Erkenntnis  (...)
 
 **7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
 
@@ -39,7 +39,7 @@
 
 **11. Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
 
-**12. Emergence and Category Distinctions** (por escribir)
+**12. Category Distinctions** (por escribir)
 
 
 
