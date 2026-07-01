@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e760528079fabb5d",
+        "id": "c3562854798adee5",
         "type": "tabs",
         "children": [
           {
-            "id": "942fe61a51ae969e",
+            "id": "05a7a5c3ead554ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Projects.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Side Projects"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Side Projects"
+              "title": "Esquema"
             }
           },
           {
@@ -187,14 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942fe61a51ae969e",
+  "active": "05a7a5c3ead554ec",
   "lastOpenFiles": [
-    "Papers to Journals.md",
-    "Is water H₂O?.md",
-    "Sin título.md",
-    "Para la publicación de libros.md",
-    "Sin nombre",
     "Side Projects.md",
+    "Studying Abroad!.md",
+    "Para la publicación de libros.md",
+    "Papers to Journals.md",
+    "Fragments/Is water H₂O?.md",
+    "Fragments/4.3 System-Mediation Schema.md",
+    "Fragments",
+    "Sin nombre",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Filosofía y Ciencia/Why they hate Heidegger.md",
     "Filosofía y Ciencia/Snowflake generation.md",
@@ -202,7 +199,6 @@
     "0_Bin/Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "0_Bin/Modelos/The model from the robust pattern.md",
     "0_Bin/Modelos/Scientific models have patterns, not structures.md",
-    "Studying Abroad!.md",
     "0_Bin/Notas sueltas.md",
     "Filosofía y Ciencia/Fil y Fil de la ciencia.md",
     "0_Bin/Medición/The problem of the objectivity of the reference.md",
@@ -215,7 +211,6 @@
     "0_Bin/Cluster y ley/La ley según otros autores.md",
     "0_Bin/Cluster y ley/Autonomía del cluster.md",
     "0_Bin/Cluster y ley/Características del Cluster.md",
-    "0_Bin/Cluster y ley/El cluster.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
@@ -235,7 +230,6 @@
     "Estructura del paper sobre modelos.canvas",
     "Pasted image 20250523230548.png",
     "Recording 20250224210326.m4a",
-    "Recording 20250224210441.m4a",
     "Abstraction, Idealization, Approximation.canvas",
     "Pasted image 20240922104452.png"
   ]
