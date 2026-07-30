@@ -3,5 +3,5 @@
 | ---------------------- | -------------------- | ------ |
 | Empirical (constraint) | Symbolic (surrogate) |        |
 | Node                   | Pattern              | System |
-| Parametric (quod)      | Mereological (quid)  |        |
+| Parametric (quod)      | Systemic (quid)      |        |
 | Mechanical systems     | Organic systems      |        |

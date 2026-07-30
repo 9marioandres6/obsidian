@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNetwork",
       "🛸",
       "📘",
       "✍",
-      "📰",
-      "📙"
+      "📰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -87,5 +87,6 @@
   "0_Bin/Modelos/Scientific models have patterns, not structures.md": "📚",
   "Filosofía y Ciencia/Fil y Fil de la ciencia.md": "🚫",
   "Side Projects.md": "🛸",
-  "Academia/Studying Abroad!.md": "🦋"
+  "Academia/Studying Abroad!.md": "🦋",
+  "Elements for a Schema.md": "LiNetwork"
 }

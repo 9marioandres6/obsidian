@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
+                "file": "Elements for a Schema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daston - The Image of Ofjectivity - Notas"
+              "title": "Elements for a Schema"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
+                "file": "Elements for a Schema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Daston - The Image of Ofjectivity - Notas"
+              "title": "Esquema de Elements for a Schema"
             }
           },
           {
@@ -246,6 +246,7 @@
   },
   "active": "8658b349ea926711",
   "lastOpenFiles": [
+    "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Naturalism/La naturaleza por contraposición.md",
     "Elements for a Schema.md",
     "Side Projects.md",
@@ -259,7 +260,6 @@
     "Fragments/Is water H₂O?.md",
     "Fragments/4.3 System-Mediation Schema.md",
     "Fragments",
-    "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Filosofía y Ciencia/Why they hate Heidegger.md",
     "Filosofía y Ciencia/Snowflake generation.md",
     "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
