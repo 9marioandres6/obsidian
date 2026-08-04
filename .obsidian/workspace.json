@@ -11,10 +11,14 @@
             "id": "596c56b47ab88649",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coming tasks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Coming tasks"
             }
           }
         ]
@@ -143,6 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Coming tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,11 +194,11 @@
   },
   "active": "596c56b47ab88649",
   "lastOpenFiles": [
+    "Questions to Tarjia Knuuttila.md",
+    "Coming tasks.md",
     "Papers to Journals.md",
     "Side Projects.md",
-    "Questions to Tarjia Knuuttila.md",
     "Elements for a Schema.md",
-    "Coming tasks.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Naturalism/La naturaleza por contraposición.md",
     "Academia",
