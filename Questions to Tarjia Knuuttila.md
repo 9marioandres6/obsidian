@@ -1,4 +1,5 @@
 * Would you concede that your conception of (platilla) in (...) is compatible (if not asimilable) to the conception of phenomena in Bogen & Woodward´s Saving the Phenomena (1988, p. 305-306)?
+
 * Models as Epistemic Artifacts:
 
 In your artefactual approach, the notion of the _epistemic artefact_ is introduced partly as an alternative to understanding models primarily as representational devices. Rather than deriving their epistemic value from a model–target relation, you emphasise their construction, material embodiment, manipulability and relative autonomy, as well as the epistemic productivity generated through these features (Knuuttila, 2005, 2011; Knuuttila & Voutilainen, 2003). In your more recent account, you further characterise models as erotetic vehicles: their construction and available representational resources constrain the questions that can be posed and the possibilities that can be explored through them (Knuuttila, 2021). I find this approach persuasive as an account of the artefactual character of models, particularly insofar as it draws attention to what models enable researchers to do beyond reproducing features already attributed to a target. I remain uncertain, however, about the meaning and classificatory role of the adjective _epistemic_ in the expression _epistemic artefact_.
@@ -11,5 +12,13 @@ Conversely, a more restrictive interpretation of _epistemic_ may bring the accou
 
 How, therefore, should the epistemic component of _epistemic artefact_ be understood? Is the concept deliberately intended as a broad category encompassing models, instruments and other artefacts involved in knowledge production, with the distinctiveness of models to be specified at another level? Or do you regard models as possessing a particular kind of epistemicity that distinguishes them from measuring instruments and experimental apparatuses? If the latter, can that distinction be articulated without appealing to the model’s capacity to support target-directed or surrogate reasoning and thereby reintroducing something close to the contemporary notion of a representational vehicle? More generally, does the artefactual approach seek to replace representation as an account of what makes models epistemically distinctive, or primarily to show that their epistemic value cannot be exhausted by their representational relation to a target?
 
+### References
 
+Knuuttila, T. (2005). _Models as epistemic artefacts: Toward a non-representationalist account of scientific representation_. University of Helsinki.
+
+Knuuttila, T. (2011). Modelling and representing: An artefactual approach to model-based representation. _Studies in History and Philosophy of Science Part A, 42_(2), 262–271. https://doi.org/10.1016/j.shpsa.2010.11.034
+
+Knuuttila, T. (2021). Epistemic artifacts and the modal dimension of modeling. _European Journal for Philosophy of Science, 11_, Article 65. [https://doi.org/10.1007/s13194-021-00374-5](https://doi.org/10.1007/s13194-021-00374-5)
+
+Knuuttila, T., & Voutilainen, A. (2003). A parser as an epistemic artifact: A material view on models. _Philosophy of Science, 70_(5), 1484–1495. https://doi.org/10.1086/377424
 
