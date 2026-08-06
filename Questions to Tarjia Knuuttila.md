@@ -12,6 +12,8 @@ Conversely, a more restrictive interpretation of _epistemic_ may bring the accou
 
 How, therefore, should the epistemic component of _epistemic artefact_ be understood? Is the concept deliberately intended as a broad category encompassing models, instruments and other artefacts involved in knowledge production, with the distinctiveness of models to be specified at another level? Or do you regard models as possessing a particular kind of epistemicity that distinguishes them from measuring instruments and experimental apparatuses? If the latter, can that distinction be articulated without appealing to the model’s capacity to support target-directed or surrogate reasoning and thereby reintroducing something close to the contemporary notion of a representational vehicle? More generally, does the artefactual approach seek to replace representation as an account of what makes models epistemically distinctive, or primarily to show that their epistemic value cannot be exhausted by their representational relation to a target?
 
+You recognise that “the two approaches, the representational and the artifactual, do not necessarily clash” (Knuuttila, 2021). Here, if the representational approach must be reintroduced to address aspects that the artefactual view alone leaves insufficiently explained—such as target-directedness, surrogate reasoning or the specific sense in which models are epistemic—would the resulting position still constitute an alternative to representational accounts? It might instead amount to an enriched conception of representation: one that incorporates the construction, manipulability, material constraints and erotetic productivity emphasised by the artefactual approach, while retaining representation to explain the directed relation through which a model supports inquiry about a target. Would you regard this as compatible with the purpose of the artefactual account, or would it overlook a more fundamental sense in which epistemic artefacts remain independent of representational relations?
+
 ### References
 
 Knuuttila, T. (2005). _Models as epistemic artefacts: Toward a non-representationalist account of scientific representation_. University of Helsinki.
@@ -21,4 +23,13 @@ Knuuttila, T. (2011). Modelling and representing: An artefactual approach to mod
 Knuuttila, T. (2021). Epistemic artifacts and the modal dimension of modeling. _European Journal for Philosophy of Science, 11_, Article 65. [https://doi.org/10.1007/s13194-021-00374-5](https://doi.org/10.1007/s13194-021-00374-5)
 
 Knuuttila, T., & Voutilainen, A. (2003). A parser as an epistemic artifact: A material view on models. _Philosophy of Science, 70_(5), 1484–1495. https://doi.org/10.1086/377424
+
+
+
+
+* Targetless models
+In discussing models without targets, distinctions such as real–virtual, real–abstract or real–metaphorical seem to play an important classificatory role. I wonder, however, whether these contrasts could be replaced by degrees of environmental dependence. A simulated system may be relatively insulated from uncontrolled environmental variation, while physical and organic systems remain progressively more sensitive to their surroundings; yet each is still a scientifically constituted target embedded in a specific environment. From this perspective, models would always have targets, although those targets differ substantially in how their behaviour depends on the environments in which they are enacted.
+
+Would this allow us to reconsider the category of targetless models? The proposal would not expand the meaning of representation merely to subsume every use of models. It would instead suggest that closer examination of modelling practices reveals target-directedness even where the target is virtual, highly constructed, exploratory or only gradually specified. On this view, every target would be real in the relevant practical sense, while differences commonly expressed through the vocabulary of reality, abstraction or metaphor would concern the degree and kind of environmental dependence involved. Would such an account conflict with your conception of models without targets, or could it provide a different interpretation of the cases gathered under that category (Knuuttila, 2021)?
+
 
