@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coming tasks.md",
+                "file": "Questions to Tarjia Knuuttila.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coming tasks"
+              "title": "Questions to Tarjia Knuuttila"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coming tasks.md",
+                "file": "Questions to Tarjia Knuuttila.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,8 +194,8 @@
   },
   "active": "596c56b47ab88649",
   "lastOpenFiles": [
-    "Questions to Tarjia Knuuttila.md",
     "Coming tasks.md",
+    "Questions to Tarjia Knuuttila.md",
     "Papers to Journals.md",
     "Side Projects.md",
     "Elements for a Schema.md",
