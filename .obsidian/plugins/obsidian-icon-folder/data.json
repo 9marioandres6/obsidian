@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🪜",
       "💐",
       "📆",
       "LiListTodo",
-      "LiNetwork",
-      "🛸"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,7 +86,7 @@
   "Filosofía y Ciencia/Fil y Fil de la ciencia.md": "🚫",
   "Side Projects.md": "🛸",
   "Academia/Studying Abroad!.md": "🦋",
-  "Elements for a Schema.md": "💐",
+  "Elements for a Schema.md": "🪜",
   "Todo List.md": "📆",
   "Publications.md": "✍"
 }
