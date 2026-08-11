@@ -10,8 +10,11 @@
 * Rewrite epistemic iteration to send to a Journal
 * Review Category Distinctions in light of Knuuttila´s work
 
-Papers to work on later:
-* The Missing Link
-* 
+
+
+## Conference in Bs. As.:
+
+How far is Biology from Physics?
+The case of ... assessed from a Thermodynamic Robustness Analysis
 
 
