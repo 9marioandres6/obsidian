@@ -12,9 +12,4 @@
 
 
 
-## Conference in Bs. As.:
-
-How far is Biology from Physics?
-The case of ... assessed from a Thermodynamic Robustness Analysis
-
 
