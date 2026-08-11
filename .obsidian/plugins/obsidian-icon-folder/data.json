@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💐",
+      "📆",
+      "LiListTodo",
       "LiNetwork",
-      "🛸",
-      "📘",
-      "✍",
-      "📰"
+      "🛸"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,6 @@
     "debugMode": false
   },
   "Filosofía y Ciencia/Realismo científico, intento de intro para Est Anaximándrico.md": "📚",
-  "Papers to Journals.md": "✍",
   "Filosofía y Ciencia/Filosofía de la ciencia y filosofía.md": "📚",
   "Filosofía y Ciencia/Metafísica reducida a realismo y verdad.md": "📚",
   "Filosofía y Ciencia/Filosofía de la ciencia y naturalismo.md": "📚",
@@ -71,7 +70,6 @@
   "0_Bin/Ciencia y Tecnología/Robustez y tecnología.md": "🚫",
   "0_Bin/Ciencia y Tecnología/Primer estadío de obtención de robustez.md": "🚫",
   "0_Bin/Emergence and category distinctions.md": "📚",
-  "Para la publicación de libros.md": "📘",
   "0_Bin/Modelos/El target suele ser múltiple.md": "⛔",
   "0_Bin/Modelos/Etimología de modelo.md": "⛔",
   "0_Bin/Modelos/La perspectiva científica basada en modelos y el instrumento de medición.md": "⛔",
@@ -88,5 +86,7 @@
   "Filosofía y Ciencia/Fil y Fil de la ciencia.md": "🚫",
   "Side Projects.md": "🛸",
   "Academia/Studying Abroad!.md": "🦋",
-  "Elements for a Schema.md": "LiNetwork"
+  "Elements for a Schema.md": "💐",
+  "Todo List.md": "📆",
+  "Publications.md": "✍"
 }
