@@ -89,7 +89,7 @@ Donna Haraway
 https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQcqHSmjqNzbpnjWSdTlShSGwxG
 https://sure-workshop.weebly.com/about.html
 	* Thermodynamic Robustness Analysis: For a Reliable Result, Destroy the Experimental Setup
-	* Thermodynamic Model Building: A Robust of Technological and Academic Device
+	* Thermodynamic Model Building: On the Robust Raising of Technological and Academic Devices
 	* The Scientific Unit and the Unity of Science: A Study of the Meaning of Scientific Representation
 
 
