@@ -1,5 +1,5 @@
 
-**1. Thermodynamic Robustness Analysis** (Publicado 2025)
+**1. Thermodynamic Robustness Analysis** (Published 2025)
     1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
     2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
     3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
@@ -7,41 +7,41 @@
     5. *Foundations of Science* (APROBADO!)
     -  o  -
 
-**2. Anaximandric Vagueness** (forceful objections, deep review required)
+**2. Anaximandric Vagueness** (restructuring)
     1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
     2. *Apeiron* (https://mail.google.com/mail/u/0/#search/apeiron/FMfcgzQbfBnznRfHklvLcwqKQNbScsGZ)
     3. *British Journal for the History of Philosophy* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgJPZnQjmpHqZJctbSfxlBZTp)
     4. *HOPOS* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzwBZLdLCRqpGtLMBDCdfGtMN)
     5. ...
 
-**3. Epistemic Iteration and the Construction of Scientific Patterns** ==(enviado a Journal)==
-	1. *Foundation of Science* (...)
+**3. Epistemic Iteration and the Construction of Scientific Patterns** (restructuring)
+	1. *Foundation of Science* (https://mail.google.com/mail/u/0/#search/foundation+of+science/FMfcgzQhVNRnbsJSmwQqsmgjjTNHRLSG)
 
-**4 . Pattern Enactment and Scientific Representation** ==(editing)== 
+**4 . Pattern Enactment and Scientific Representation** (restructuring) 
 	1. *Synthese* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMgKQXTwSLcvMGspdvFSxPFdD)
 
-**5. Discordance Problem** ==(enviado a Journal)==
+**5. Discordance Problem** ==(pre-approved)==
 	1. *European Journal of Philosophy of Science* (...)
 
-**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(enviado a Journal)== 
+**6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(in review)== 
 	1. *The British Journal for the Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
 	3. Erkenntnis  (...)
 
-**7. The Scientific Unity and the Unity of Science**  (a la mitad, pero quieto por ahora)
+**7. The Scientific Unity and the Unity of Science**  (in construction)
 
-**8. Biepistemic Science** (terminada la primera versión, y en reposo por ahora)
+**8. Biepistemic Science** (in construction)
 
-**9. Measurement systems as mediators** ==(enviado a Journal)==
-1. *Philosophy & Technology*
+**9. Measurement systems as mediators** (restructuring)
+	1. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQhVrGBbxPXvKMHFGFnkzMQbWpl)
 
 **10. Introducción a la filosofía de la ciencia** (en elaboración)
 
 **11. Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
 
-**12. Category Distinctions** (por escribir)
+**12. Category Distinctions** (in construction)
 
-**13. Epistemic Shells: the Missing Link of Robustness Analysis** (por escribir)
+**13. Epistemic Shells: the Missing Link of Robustness Analysis** (to be written)
 (Safety factors act also as shells)
 
 
@@ -72,8 +72,6 @@
 7. Pattern Enactment
 
 
-
-
 #### Closer to Barad:
 Andrew Pickering
 Hans-Jörg Rheinberger
@@ -82,13 +80,11 @@ Isabelle Stengers
 Donna Haraway
 
 
-
 ## Para la publicación de libros:
-
 
 https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQcqHSmjqNzbpnjWSdTlShSGwxG
 https://sure-workshop.weebly.com/about.html
-	* Thermodynamic Robustness Analysis: For a Reliable Result, Destroy the Experimental Setup
+	* Rhomodynamic Robustness Analysis: For a Reliable Result, Destroy the Experimental Setup
 	* Thermodynamic Model Building: On the Robust Raising of Technological and Academic Devices
 	* The Scientific Unit and the Unity of Science: A Study of the Meaning of Scientific Representation
 
