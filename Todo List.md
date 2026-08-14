@@ -10,10 +10,10 @@
 * Rewrite Pattern Enactment
 
 Work on:
-* Anaximandric Vagueness
-* Pattern Enactment
-* Category Distinctions
 * Epistemic Shells
+* Pattern Enactment
+* Anaximandric Vagueness
+* Category Distinctions
 * Biepistemic Science
 * Naturalism
 * Causality
