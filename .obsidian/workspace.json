@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo List.md",
+                "file": "Publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo List"
+              "title": "Publications"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo List.md",
+                "file": "Publications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,9 +194,9 @@
   },
   "active": "8883f2a4dd661d89",
   "lastOpenFiles": [
+    "Todo List.md",
     "Fragments/From Stabilization of Discordance.md",
     "Fragments/From Staged Model Building.md",
-    "Todo List.md",
     "Publications.md",
     "Side Projects.md",
     "Elements for a Schema.md",
