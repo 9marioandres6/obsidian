@@ -14,7 +14,7 @@
     4. *HOPOS* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzwBZLdLCRqpGtLMBDCdfGtMN)
     5. ...
 
-**3. Epistemic Iteration and the Construction of Scientific Patterns** (restructuring)
+**3. The Progressive, Iterative and Context-Sensitive Dynamics of Model Building** (restructuring)
 	1. *Foundation of Science* (https://mail.google.com/mail/u/0/#search/foundation+of+science/FMfcgzQhVNRnbsJSmwQqsmgjjTNHRLSG)
 
 **4 . Pattern Enactment and Scientific Representation** (restructuring) 
