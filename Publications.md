@@ -41,7 +41,7 @@
 
 **12. Category Distinctions** (in construction)
 
-**13. Epistemic Shells: the Missing Link of Robustness Analysis** (to be written)
+**13. Epistemic Shells: the Missing Link in Robustness Analysis** (to be written)
 (Safety factors act also as shells)
 
 
