@@ -1,5 +1,5 @@
 
-**1. Thermodynamic Robustness Analysis** (Published 2025)
+**1. Thermodynamic Robustness Analysis** ==**(Published 2025)**==
     1. *Philosophy of Science* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQXKhDwtZfnFtvrTqtprvQcfWJG)
     2. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#search/thermody/FMfcgzQZSXxkzmKWSXGMccqXBncwzQSG)
     3. *European Journal for Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQZSsJkqcCsFhblZnjXKwcDvWxH)
@@ -14,8 +14,12 @@
     4. *HOPOS* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzwBZLdLCRqpGtLMBDCdfGtMN)
     5. ...
 
-**3. The Progressive, Iterative and Context-Sensitive Dynamics of Model Building** (restructuring)
-	1. *Foundation of Science* (https://mail.google.com/mail/u/0/#search/foundation+of+science/FMfcgzQhVNRnbsJSmwQqsmgjjTNHRLSG)
+**3. The Progressive, Iterative and Context-Sensitive Dynamics of Model Building** ==(in review)== 
+	1. *The British Journal for the Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
+	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
+	3. Erkenntnis  (...)
+	4. *Foundation of Science* (https://mail.google.com/mail/u/0/#search/foundation+of+science/FMfcgzQhVNRnbsJSmwQqsmgjjTNHRLSG)
+	5. *Studies in History and Philosophy of Science* (...)
 
 **4 . Pattern Enactment and Scientific Representation** (restructuring) 
 	1. *Synthese* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMgKQXTwSLcvMGspdvFSxPFdD)
