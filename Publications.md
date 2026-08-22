@@ -7,7 +7,7 @@
     5. *Foundations of Science* (APROBADO!)
     -  o  -
 
-**2. Anaximandric Vagueness** (restructuring)
+**2. Anaximandric Vagueness** (to be restructured)
     1. *Erkenntnis* (https://mail.google.com/mail/u/0/?pli=1#search/erkenntnis/FMfcgzQZSsPVcBpnNdsVBTBvFKmTTGSH)
     2. *Apeiron* (https://mail.google.com/mail/u/0/#search/apeiron/FMfcgzQbfBnznRfHklvLcwqKQNbScsGZ)
     3. *British Journal for the History of Philosophy* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgJPZnQjmpHqZJctbSfxlBZTp)
@@ -21,7 +21,7 @@
 	4. *Foundation of Science* (https://mail.google.com/mail/u/0/#search/foundation+of+science/FMfcgzQhVNRnbsJSmwQqsmgjjTNHRLSG)
 	5. *Studies in History and Philosophy of Science* (...)
 
-**4 . Pattern Enactment and Scientific Representation** (restructuring) 
+**4 . Pattern Articulation and Scientific Representation** (waiting for Knuuttila´s answer) 
 	1. *Synthese* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMgKQXTwSLcvMGspdvFSxPFdD)
 
 **5. Discordance Problem** ==(pre-approved)==
@@ -32,20 +32,20 @@
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
 	3. Erkenntnis  (...)
 
-**7. The Scientific Unity and the Unity of Science**  (in construction)
+**7. The Scientific Unity and the Unity of Science**  (row)
 
-**8. Biepistemic Science** (in construction)
+**8. Biepistemic Science** (row)
 
-**9. Measurement systems as mediators** (restructuring)
+**9. Measurement systems as mediators** (to be submitted for publication after Romania)
 	1. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQhVrGBbxPXvKMHFGFnkzMQbWpl)
 
-**10. Introducción a la filosofía de la ciencia** (en elaboración)
+**10. Introducción a la filosofía de la ciencia** (row)
 
-**11. Naturalism** (terminada la primera versión. Tal vez lo tenga que trabajar con algún prof.)
+**11. Naturalism** (row)
 
-**12. Category Distinctions** (in construction)
+**12. Category Distinctions** (waiting for publication of Pattern Articulation)
 
-**13. Epistemic Shells: the Missing Link in Robustness Analysis** (to be written)
+**13. Epistemic Shells: the Missing Link in Robustness Analysis** (to be written, perhaps with Ohnesorge)
 (Safety factors act also as shells)
 
 
@@ -55,7 +55,7 @@
 
 1. Generic Knowledge in Scientific Practice (ex Scientific Unity)
 2. **+** **Category Distinctions
-3. **Pattern Enactment and Scientific Representation
+3. **Pattern Articulation and Scientific Representation
 4. **Discordance Problem
 5. **The Pragmatic Cubist Strategies Behind Scientific Realism
 6. **+** Causality
@@ -73,7 +73,7 @@
 4. Historia de la Representación en Ciencia
 5. El quiebre entre la unidad entre teoría y mundo
 6. Relación entre Teoría y Mundo en Nancy Cartwright
-7. Pattern Enactment
+7. Pattern Articulation
 
 
 #### Closer to Barad:
