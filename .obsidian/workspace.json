@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noted sentences.md",
+                "file": "Elements for a Schema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noted sentences"
+              "title": "Elements for a Schema"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Noted sentences.md",
+                "file": "Elements for a Schema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,8 +209,8 @@
   },
   "active": "16e8391c06bf88c6",
   "lastOpenFiles": [
-    "Publications.md",
     "Noted sentences.md",
+    "Publications.md",
     "Todo List.md",
     "Fragments/From Stabilization of Discordance.md",
     "Fragments/From Staged Model Building.md",
