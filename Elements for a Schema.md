@@ -1,7 +1,8 @@
 
-|                        |                      |        |
-| ---------------------- | -------------------- | ------ |
-| Empirical (constraint) | Symbolic (surrogate) |        |
-| Node                   | Pattern              | System |
-| Parametric (quod)      | Systemic (quid)      |        |
-| Mechanical systems     | Organic systems      |        |
+|              |                         |                       |           |       |
+| ------------ | ----------------------- | --------------------- | --------- | ----- |
+| **Function** | Empirical               | Symbolic              |           |       |
+| **Scale**    | Node                    | Pattern               | System    |       |
+| **Format**   | Parametric → Mechanical | Topological → Organic |           |       |
+| **Cause**    | Material                | Formal                | Efficient | Final |
+
