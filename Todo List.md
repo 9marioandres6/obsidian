@@ -1,20 +1,7 @@
-* + Read The Multiple Dimensions of Multiple Determination from Coko
-* + Slides about Discordance for Krakow
-* + Send Discordance paper
-* + Scholarship from CONICET
-* + Research Tarjia Knuuttila
-* Work on epistemic iteration to send to a Journal
-* Consider send a proposal email to Berlin, Munich and Vienna
-* Prepare exposition about Bogen and Woodward
-* Work on Measuring Systems as Mediators and send to a journal
-* Finish Slides about Measuring Models as Mediators
-* Finish Slides about Discordance
-* Write to Knuuttila, Hartmann, Boon and guys of Berlin
-* Rewrite Pattern Enactment
 
-Work on:
-* Epistemic Shells
 * Pattern Enactment
+* Epistemic Shells
+* The Context of Design After the Operational Turn (by 15th December)
 * Anaximandric Vagueness
 * Category Distinctions
 * Biepistemic Science
@@ -22,4 +9,11 @@ Work on:
 * Causality
 * Cognition
 
+IN REVIEW
+* Managing Discordance
+* Staged Model Building
+* Pragmatic Cubism
+* Measuring Instrument as Mediators
 
+PUBLISHED:
+* Thermodynamic Robustness Analysis
