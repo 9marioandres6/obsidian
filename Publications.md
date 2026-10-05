@@ -24,13 +24,14 @@
 **4 . Pattern Articulation and Scientific Representation** (waiting for Knuuttila´s answer) 
 	1. *Synthese* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMgKQXTwSLcvMGspdvFSxPFdD)
 
-**5. Discordance Problem** ==(pre-approved)==
+**5. Discordance Problem** (in work)
 	1. *European Journal of Philosophy of Science* (...)
 
 **6. The Pragmatic Cubist Strategies Behind Scientific Realism** ==(in review)== 
 	1. *The British Journal for the Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQfBkQwKHSKDVPTdPNmFlNtJHpn)
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
 	3. Erkenntnis  (https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox/FMfcgzQhWnpgfgqQHMtwLhjRwtjttsnL)
+	4. Journal for General Philosophy of Science (...)
 
 **7. The Scientific Unity and the Unity of Science**  (row)
 
