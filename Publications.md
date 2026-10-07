@@ -44,7 +44,7 @@
 
 **11. Naturalism** (row)
 
-**12. Category Distinctions** (waiting for publication of Pattern Articulation)
+**12. Category Distinctions** (waiting for publication of Pattern Articulation and Staged Model Building)
 
 **13. Epistemic Shells: the Missing Link in Robustness Analysis** (to be written, perhaps with Ohnesorge)
 (Safety factors act also as shells)
