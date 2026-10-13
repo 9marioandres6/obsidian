@@ -32,7 +32,7 @@
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
 	3. Erkenntnis  (https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox/FMfcgzQhWnpgfgqQHMtwLhjRwtjttsnL)
 	4. Journal for General Philosophy of Science (https://mail.google.com/mail/u/0/#inbox/FMfcgzQhWpCFPwkRJlLNjWFjqPXXSVCS)
-	5. 
+	5. Perspectives on Science
 
 **7. The Scientific Unity and the Unity of Science**  (row)
 
