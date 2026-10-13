@@ -32,14 +32,15 @@
 	2. *Philosophy of Science* (https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQgLXxkXlbBZVNvkphmrdMFhGKr)
 	3. Erkenntnis  (https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox/FMfcgzQhWnpgfgqQHMtwLhjRwtjttsnL)
 	4. Journal for General Philosophy of Science (https://mail.google.com/mail/u/0/#inbox/FMfcgzQhWpCFPwkRJlLNjWFjqPXXSVCS)
-	5. Perspectives on Science
+	5. Perspectives on Science (...)
 
 **7. The Scientific Unity and the Unity of Science**  (row)
 
 **8. Biepistemic Science** (row)
 
-**9. Measurement systems as mediators** (to be submitted for publication after Romania)
+**9. Measurement systems as mediators** ==(in review)==
 	1. *Philosophy & Technology* (https://mail.google.com/mail/u/0/#inbox/FMfcgzQhVrGBbxPXvKMHFGFnkzMQbWpl)
+	2. *European Journal for Philosophy of Science* (...)
 
 **10. Introducción a la filosofía de la ciencia** (row)
 
