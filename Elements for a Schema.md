@@ -20,7 +20,7 @@
       <td>Final</td>
     </tr>
     <tr>
-      <td><b>Scale</b></td>
+      <td><b>Level</b></td>
       <td>Node</td>
       <td>Pattern</td>
       <td>System</td>
@@ -34,4 +34,3 @@
   </tbody>
 </table>
 
-``
