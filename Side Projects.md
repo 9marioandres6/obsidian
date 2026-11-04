@@ -8,3 +8,5 @@
 * Philosophy Therapy (Sophistic)
 
 * Agora
+
+* Dualidad

@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinds of Stability.md",
+                "file": "Side Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinds of Stability"
+              "title": "Side Projects"
+            }
+          },
+          {
+            "id": "5e87024b4eebef2b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinds of Stability.md",
+                "file": "Side Projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc0b1ce609598539",
+  "active": "5e87024b4eebef2b",
   "lastOpenFiles": [
+    "Kinds of Stability.md",
     "Elements for a Schema.md",
     "Todo List.md",
-    "Kinds of Stability.md",
     "Noted sentences.md",
     "Publications.md",
     "Side Projects.md",
