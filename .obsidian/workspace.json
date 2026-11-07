@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agradecimientos.md",
+                "file": "Discordance as an Empirical–Symbolic Interruption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agradecimientos"
+              "title": "Discordance as an Empirical–Symbolic Interruption"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agradecimientos.md",
+                "file": "Discordance as an Empirical–Symbolic Interruption.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +237,11 @@
   },
   "active": "100c53e9642dcda3",
   "lastOpenFiles": [
+    "Agradecimientos.md",
+    "Discordance as an Empirical–Symbolic Interruption.md",
     "Fragments/From Stabilization of Discordance.md",
     "Fragments/From Staged Model Building.md",
-    "Agradecimientos.md",
     "Todo List.md",
-    "Discordance as an Empirical–Symbolic Interruption.md",
     "0_Bin/Kinds of Stability.md",
     "Publications.md",
     "Side Projects.md",
