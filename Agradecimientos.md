@@ -11,7 +11,7 @@ Dos o tres años más, después de haber avanzado con mi nivel de inglés en hos
 Cierta confidencia que también tengo que agradecer por gratuita me decidió a explicarle mi interés a Magdalena, la finlandesa, de participar del circuito europeo de investigación en filosofía de la ciencia. A tal punto entendió mi punto que no sólo me invitó insistentemente a Helsinki, sino además, cuando le escribí para ir, estuvo al tanto de mi caso hasta que la visita fue aprobada. Entré al TINT como entrando a las grandes ligas, ésa fue mi experiencia.
 
 
-Tengo que resaltar estos rayos de amabilidad porque aparecían en medio de decenas y decenas de actitudes contrarias, que son las esperables, ya que, Córdoba in Spain? I don´t know anybody there... sorry, I´ve to come back.
+Tengo que resaltar estos rayos de amabilidad porque aparecían en medio de decenas y decenas de reacciones opuestas, que son las esperables, ya que, Córdoba in Spain? Oh, don´t know anybody there, but some day I want to be in Patagonia... sorry I´ve to come back. Please to meet you!
 
 
-Por cierto, creo en el agradecimiento cuando es espontáneo, en el momento y sin estereotipos, no cuando es público.
+Mi investigación fue financiada exclusivamente por los ahorros que pude juntar trabajando en la empresita de Diego Lis. Por lo demás, creo en el agradecimiento cuando es espontáneo, en el momento y sin estereotipos, no cuando es público.
