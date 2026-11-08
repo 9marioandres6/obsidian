@@ -1,4 +1,8 @@
 
+
+The role of this provisional explanation contributes to a necessary element as a stage-based model development. If persistent discordance has as a condition its backgrounding through a stage jump and a focus switch, the obvious question is what makes scientists decide to move to a further stage in presence of such a discordance (Hey, 2015; Maziarz, 2024)? The answer points to two sources. On the one hand, the not coincident outcomes cannot account properly, or as expected, to a common feature o the target, but they can do it nevertheless indirectly through coordinating resources, which are indicators that discordance is stable. On the other hand, there is an explanation of such discordance that, although it is not empirically tested, it is considered plausible and reconcile
+
+
 #### 1. Pattern generation
 
 - Pattern generation results from the interaction between model design and multimodal determination.
