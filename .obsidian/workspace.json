@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z. Academia/Todo List.md",
+                "file": "Fragments/Against abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo List"
+              "title": "Against abstraction"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z. Academia/Todo List.md",
+                "file": "Fragments/Against abstraction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,8 +194,9 @@
   },
   "active": "14ce7d7e5af3a8aa",
   "lastOpenFiles": [
-    "Z. Academia/Agradecimientos.md",
     "Z. Academia/Todo List.md",
+    "Fragments/Against abstraction.md",
+    "Z. Academia/Agradecimientos.md",
     "Z. Academia/October in TU Berlin.md",
     "Z. Academia/October in Helsinki.md",
     "Z. Academia/Studying Abroad!.md",
@@ -221,7 +222,6 @@
     "Contralógica/The state-space fails the Dreyfus´ frame problem.md",
     "0_Bin/Modelos/Tres imprecisiones en filosofía de la ciencia.md",
     "0_Bin/Modelos/The model from the robust pattern.md",
-    "0_Bin/Modelos/Scientific models have patterns, not structures.md",
     "0_Bin/Estructura Difusa/Authors´ proposals.canvas",
     "0_Bin/Partículas anaximándricas/Anaximandro no conoce el regalo.canvas",
     "PNGs images and Canvas/Unity of Science and scientific unity.canvas",
