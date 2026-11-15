@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa80838772ffe0d",
+        "id": "c0d425e474574c85",
         "type": "tabs",
         "children": [
           {
-            "id": "bc418d6c51af2de0",
+            "id": "14ce7d7e5af3a8aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publications.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Publications"
-            }
-          },
-          {
-            "id": "cc0b1ce609598539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Publications"
-            }
-          },
-          {
-            "id": "9470fbf9854c6539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agradecimientos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agradecimientos"
-            }
-          },
-          {
-            "id": "be7ec4f219c6a2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fragments/Against the abstract.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Against the abstract"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +143,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fragments/Against the abstract.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,27 +187,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d46e820ab39a8d1e",
+  "active": "14ce7d7e5af3a8aa",
   "lastOpenFiles": [
-    "Agradecimientos.md",
+    "Z. Academia/Agradecimientos.md",
+    "Z. Academia/Todo List.md",
+    "Z. Academia/October in TU Berlin.md",
+    "Z. Academia/October in Helsinki.md",
+    "Z. Academia/Studying Abroad!.md",
     "Fragments/Against the abstract.md",
-    "Todo List.md",
+    "Z. Academia/Publications.md",
+    "Z. Academia/Side Projects.md",
+    "Z. Academia/Elements for a Schema.md",
     "0_Bin/Discordance as an Empirical–Symbolic Interruption.md",
     "Fragments/From Stabilization of Discordance.md",
     "Fragments/From Staged Model Building.md",
     "0_Bin/Kinds of Stability.md",
-    "Publications.md",
-    "Side Projects.md",
-    "Elements for a Schema.md",
     "Noted sentences.md",
     "Para la publicación de libros.md",
     "0_Bin/Questions to Tarjia Knuuttila.md",
     "Naturalism/Daston - The Image of Ofjectivity - Notas.md",
     "Naturalism/La naturaleza por contraposición.md",
-    "Academia",
-    "Academia/October in Helsinki.md",
-    "Academia/October in TU Berlin.md",
-    "Academia/Studying Abroad!.md",
+    "Z. Academia",
     "Fragments/Is water H₂O?.md",
     "Fragments/4.3 System-Mediation Schema.md",
     "Fragments",

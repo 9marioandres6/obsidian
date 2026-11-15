@@ -1,5 +1,6 @@
 {
   "baseFontSize": 22,
   "accentColor": "#279ad3",
-  "theme": "system"
+  "theme": "system",
+  "showRibbon": true
 }
